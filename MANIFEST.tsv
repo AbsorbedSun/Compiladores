@@ -1,0 +1,1026 @@
+ruta_original	accion	destino_o_motivo
+compipracticas_codigo1/.~lock.prac2compila.docx#	OMITIDO	archivo de bloqueo de LibreOffice
+compipracticas_codigo1/capitu8.doc	COPIADO	1_documentos/referencia/capitu8.doc
+compipracticas_codigo1/capitu8.rtf	COPIADO	1_documentos/referencia/capitu8.rtf
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/CAddressBus.java	COPIADO	6_extras/maquinas_virtuales/corewars/CAddressBus.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/CDataBus.java	COPIADO	6_extras/maquinas_virtuales/corewars/CDataBus.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/CMARS.java	COPIADO	6_extras/maquinas_virtuales/corewars/CMARS.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/CProcessor.java	COPIADO	6_extras/maquinas_virtuales/corewars/CProcessor.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/Core.java	COPIADO	6_extras/maquinas_virtuales/corewars/Core.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/CoreDoc.java	COPIADO	6_extras/maquinas_virtuales/corewars/CoreDoc.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/CoreWord.java	COPIADO	6_extras/maquinas_virtuales/corewars/CoreWord.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/DWARF.RED	COPIADO	6_extras/maquinas_virtuales/corewars/DWARF.RED
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/Fondo.jpg	COPIADO	6_extras/maquinas_virtuales/corewars/Fondo.jpg
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/HitInfo.java	COPIADO	6_extras/maquinas_virtuales/corewars/HitInfo.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/IMP1.RED	COPIADO	6_extras/maquinas_virtuales/corewars/IMP1.RED
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/MainWin.java	COPIADO	6_extras/maquinas_virtuales/corewars/MainWin.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/PruebaCore.java	COPIADO	6_extras/maquinas_virtuales/corewars/PruebaCore.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/corewars/RA.java	COPIADO	6_extras/maquinas_virtuales/corewars/RA.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/MVPila.txt	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/MVPila.txt
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/a.out	OMITIDO	archivo generado/regenerable (a.out)
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/contabla/a.out	OMITIDO	archivo generado/regenerable (a.out)
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/contabla/code.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/code.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/contabla/hoc.h	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/hoc.h
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/contabla/init.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/init.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/contabla/maquina.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/maquina.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/contabla/maquina1.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/old/maquina1.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/contabla/maquina2.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/old/maquina2.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/contabla/maquina3.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/old/maquina3.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/contabla/maquina4.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/old/maquina4.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/contabla/maquina5.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/old/maquina5.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/contabla/maquina_0.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/old/maquina_0.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/contabla/maquinacasi.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/old/maquinacasi.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/maq0.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/old/maq0.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/maq1.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/old/maq1.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/maq2.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/old/maq2.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/maquinaBien.c	DUPLICADO	igual a 6_extras/maquinas_virtuales/marzo2025_contabla/maquina.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/marzo2025/maquina__.c	COPIADO	6_extras/maquinas_virtuales/marzo2025_contabla/old/maquina__.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron/InterpretException.java	COPIADO	6_extras/maquinas_virtuales/simpletron/InterpretException.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron/LoadException.java	COPIADO	6_extras/maquinas_virtuales/simpletron/LoadException.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron/Simpletron.java	COPIADO	6_extras/maquinas_virtuales/simpletron/Simpletron.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron/Simpletron111.java	COPIADO	6_extras/maquinas_virtuales/simpletron/Simpletron111.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron/UtilReflect.java	COPIADO	6_extras/maquinas_virtuales/simpletron/UtilReflect.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron/code.txt	COPIADO	6_extras/maquinas_virtuales/simpletron/code.txt
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron/code1.txt	COPIADO	6_extras/maquinas_virtuales/simpletron/code1.txt
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron1/Simpletron.java	COPIADO	6_extras/maquinas_virtuales/simpletron1/Simpletron.java
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron1/code.txt	COPIADO	6_extras/maquinas_virtuales/simpletron1/code.txt
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron1/code1.txt	COPIADO	6_extras/maquinas_virtuales/simpletron1/code1.txt
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron1/code2.txt	COPIADO	6_extras/maquinas_virtuales/simpletron1/code2.txt
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron1/code3.txt	COPIADO	6_extras/maquinas_virtuales/simpletron1/code3.txt
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron1/code4.txt	COPIADO	6_extras/maquinas_virtuales/simpletron1/code4.txt
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron1/code5.txt	COPIADO	6_extras/maquinas_virtuales/simpletron1/code5.txt
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron1/simpletron.c	COPIADO	6_extras/maquinas_virtuales/simpletron1/simpletron.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron1/simpletron.h	COPIADO	6_extras/maquinas_virtuales/simpletron1/simpletron.h
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron1/simpletron0.c	COPIADO	6_extras/maquinas_virtuales/simpletron1/simpletron0.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron1/simpletron1.c	COPIADO	6_extras/maquinas_virtuales/simpletron1/simpletron1.c
+compipracticas_codigo1/compisep2019misce/MaquinasVirtuales/simpletron1/simpletron2.c	COPIADO	6_extras/maquinas_virtuales/simpletron1/simpletron2.c
+compipracticas_codigo1/compisep2019misce/deriva000.pro	COPIADO	6_extras/prolog/deriva000.pro
+compipracticas_codigo1/compisep2019misce/grande0	OMITIDO	ver practica1/c/numeros_grandes/v1
+compipracticas_codigo1/compisep2019misce/grande0/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/old/grande0_2018/Makefile
+compipracticas_codigo1/compisep2019misce/grande0/big_calc.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/old/big_calc0.c
+compipracticas_codigo1/compisep2019misce/grande0/big_calc.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/big_calc.h
+compipracticas_codigo1/compisep2019misce/grande0/big_calc.y	COPIADO	5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/old/grande0_2018/big_calc.y
+compipracticas_codigo1/compisep2019misce/minilex/Makefile	COPIADO	6_extras/minilex/Makefile
+compipracticas_codigo1/compisep2019misce/minilex/afd.c	COPIADO	6_extras/minilex/afd.c
+compipracticas_codigo1/compisep2019misce/minilex/arbol.c	COPIADO	6_extras/minilex/arbol.c
+compipracticas_codigo1/compisep2019misce/minilex/cola.c	COPIADO	6_extras/minilex/cola.c
+compipracticas_codigo1/compisep2019misce/minilex/conjunto_cal.c	COPIADO	6_extras/minilex/conjunto_cal.c
+compipracticas_codigo1/compisep2019misce/minilex/regexp.h	COPIADO	6_extras/minilex/regexp.h
+compipracticas_codigo1/compisep2019misce/minilex/regular.c	COPIADO	6_extras/minilex/regular.c
+compipracticas_codigo1/compisep2019misce/minilex/regular0.c	COPIADO	6_extras/minilex/regular0.c
+compipracticas_codigo1/compisep2019misce/minilex/simple.y	COPIADO	6_extras/minilex/simple.y
+compipracticas_codigo1/compisep2019misce/minilex/simple_0_0.y	COPIADO	6_extras/minilex/simple_0_0.y
+compipracticas_codigo1/compisep2019misce/minilex/simple_1.y	COPIADO	6_extras/minilex/simple_1.y
+compipracticas_codigo1/compisep2019misce/minilex/simplefunci.y	COPIADO	6_extras/minilex/simplefunci.y
+compipracticas_codigo1/compisep2019misce/minilisp/A micro-manual for LISP Implemented in C.html	COPIADO	6_extras/minilisp/A micro-manual for LISP Implemented in C.html
+compipracticas_codigo1/compisep2019misce/minilisp/makefile	COPIADO	6_extras/minilisp/makefile
+compipracticas_codigo1/compisep2019misce/minilisp/minilisp.c	COPIADO	6_extras/minilisp/minilisp.c
+compipracticas_codigo1/compisep2019misce/miniyacc/hoc1.y	COPIADO	6_extras/miniyacc/hoc1.y
+compipracticas_codigo1/compisep2019misce/miniyacc/yacc.c	COPIADO	6_extras/miniyacc/yacc.c
+compipracticas_codigo1/compisep2019misce/parserLR/ParserLR.html	COPIADO	6_extras/parserLR/ParserLR.html
+compipracticas_codigo1/compisep2019misce/parserLR/as.txt	COPIADO	6_extras/parserLR/as.txt
+compipracticas_codigo1/compisep2019misce/parserLR/hoc1.y	COPIADO	6_extras/parserLR/hoc1.y
+compipracticas_codigo1/compisep2019misce/parserLR/parser.c	COPIADO	6_extras/parserLR/parser.c
+compipracticas_codigo1/compisep2019misce/parserLR/parser1.c	COPIADO	6_extras/parserLR/parser1.c
+compipracticas_codigo1/compisep2019misce/parserLR/parserback.c	COPIADO	6_extras/parserLR/parserback.c
+compipracticas_codigo1/compisep2019misce/parserLR/pilap.c	COPIADO	6_extras/parserLR/pilap.c
+compipracticas_codigo1/compisep2019misce/prologTodo2_rela0100sc.c	COPIADO	6_extras/prolog/prologTodo2_rela0100sc.c
+compipracticas_codigo1/compisep2019misce/tercetos/tercetos.y	COPIADO	6_extras/tercetos/tercetos.y
+compipracticas_codigo1/guia1Compi2017sep.docx	COPIADO	1_documentos/guias/guia1Compi2017sep.docx
+compipracticas_codigo1/guia1Compi2019sep.docx	COPIADO	1_documentos/guias/guia1Compi2019sep.docx
+compipracticas_codigo1/hoc4.txt	COPIADO	2_hoc_c/hoc4/old/hoc4_2017.txt
+compipracticas_codigo1/hoc4/code.c	COPIADO	2_hoc_c/hoc4/old/raiz_2025/code.c
+compipracticas_codigo1/hoc4/hoc.h	COPIADO	2_hoc_c/hoc4/old/raiz_2025/hoc.h
+compipracticas_codigo1/hoc4/hoc4.y	COPIADO	2_hoc_c/hoc4/old/raiz_2025/hoc4.y
+compipracticas_codigo1/hoc4/init.c	COPIADO	2_hoc_c/hoc4/old/raiz_2025/init.c
+compipracticas_codigo1/hoc4/math.c	COPIADO	2_hoc_c/hoc4/old/raiz_2025/math.c
+compipracticas_codigo1/hoc4/symbol.c	COPIADO	2_hoc_c/hoc4/old/raiz_2025/symbol.c
+compipracticas_codigo1/hoc5/Makefile	DUPLICADO	igual a 2_hoc_c/hoc5/Makefile
+compipracticas_codigo1/hoc5/code.c	COPIADO	2_hoc_c/hoc5/old/original_2021/code.c
+compipracticas_codigo1/hoc5/ejemplo.txt	DUPLICADO	igual a 2_hoc_c/hoc5/ejemplo.txt
+compipracticas_codigo1/hoc5/funcihoc6.txt	DUPLICADO	igual a 2_hoc_c/hoc5/funcihoc6.txt
+compipracticas_codigo1/hoc5/hoc.h	COPIADO	2_hoc_c/hoc5/old/original_2021/hoc.h
+compipracticas_codigo1/hoc5/hoc5.y	COPIADO	2_hoc_c/hoc5/old/original_2021/hoc5.y
+compipracticas_codigo1/hoc5/init.c	DUPLICADO	igual a 2_hoc_c/hoc5/init.c
+compipracticas_codigo1/hoc5/mapmemifwhile.txt	DUPLICADO	igual a 2_hoc_c/hoc5/mapmemifwhile.txt
+compipracticas_codigo1/hoc5/math.c	DUPLICADO	igual a 2_hoc_c/hoc5/math.c
+compipracticas_codigo1/hoc5/old/hocy.txt	DUPLICADO	igual a 2_hoc_c/hoc5/old/hocy.txt
+compipracticas_codigo1/hoc5/symbol.c	DUPLICADO	igual a 2_hoc_c/hoc5/symbol.c
+compipracticas_codigo1/hoc5/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+compipracticas_codigo1/hoc5/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+compipracticas_codigo1/hoc6/Makefile	DUPLICADO	igual a 2_hoc_c/hoc6/Makefile
+compipracticas_codigo1/hoc6/code.c	DUPLICADO	igual a 2_hoc_c/hoc6/code.c
+compipracticas_codigo1/hoc6/hoc	OMITIDO	binario compilado (hoc); se regenera con make
+compipracticas_codigo1/hoc6/hoc.h	DUPLICADO	igual a 2_hoc_c/hoc6/hoc.h
+compipracticas_codigo1/hoc6/hoc6.y	DUPLICADO	igual a 2_hoc_c/hoc6/hoc6.y
+compipracticas_codigo1/hoc6/init.c	DUPLICADO	igual a 2_hoc_c/hoc6/init.c
+compipracticas_codigo1/hoc6/math.c	DUPLICADO	igual a 2_hoc_c/hoc6/math.c
+compipracticas_codigo1/hoc6/old/Makefile2	DUPLICADO	igual a 2_hoc_c/hoc6/old/Makefile2
+compipracticas_codigo1/hoc6/old/codedebug.c	DUPLICADO	igual a 2_hoc_c/hoc6/old/codedebug.c
+compipracticas_codigo1/hoc6/old/ejemplotes.txt	DUPLICADO	igual a 2_hoc_c/hoc6/old/ejemplotes.txt
+compipracticas_codigo1/hoc6/old/makefile.txt	DUPLICADO	igual a 2_hoc_c/hoc6/old/makefile.txt
+compipracticas_codigo1/hoc6/old/makefile1	DUPLICADO	igual a 2_hoc_c/hoc6/old/makefile1
+compipracticas_codigo1/hoc6/old/p2.hoc1	DUPLICADO	igual a 2_hoc_c/hoc6/old/p2.hoc1
+compipracticas_codigo1/hoc6/p1.hoc	DUPLICADO	igual a 2_hoc_c/hoc6/p1.hoc
+compipracticas_codigo1/hoc6/p2.hoc	COPIADO	2_hoc_c/hoc6/old/raiz_2026/p2.hoc
+compipracticas_codigo1/hoc6/symbol.c	DUPLICADO	igual a 2_hoc_c/hoc6/symbol.c
+compipracticas_codigo1/hoc6/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+compipracticas_codigo1/hoc6/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+compipracticas_codigo1/hoc6/yacc.acts	OMITIDO	archivo generado/regenerable (yacc.acts)
+compipracticas_codigo1/hoc6/yacc.tmp	OMITIDO	archivo generado/regenerable (yacc.tmp)
+compipracticas_codigo1/hocCadenas/complejo/Makefile	COPIADO	4_hoc_cadenas/complejo/Makefile
+compipracticas_codigo1/hocCadenas/complejo/complejo_cal.c	COPIADO	4_hoc_cadenas/complejo/complejo_cal.c
+compipracticas_codigo1/hocCadenas/complejo/complejo_cal.h	COPIADO	4_hoc_cadenas/complejo/complejo_cal.h
+compipracticas_codigo1/hocCadenas/complejo/complejo_cal.l	COPIADO	4_hoc_cadenas/complejo/complejo_cal.l
+compipracticas_codigo1/hocCadenas/hoc1/Makefile	COPIADO	4_hoc_cadenas/hoc1/Makefile
+compipracticas_codigo1/hocCadenas/hoc1/doble_calc.c	COPIADO	4_hoc_cadenas/hoc1/doble_calc.c
+compipracticas_codigo1/hocCadenas/hoc1/hoc.h	COPIADO	4_hoc_cadenas/hoc1/hoc.h
+compipracticas_codigo1/hocCadenas/hoc1/hoc1.l	COPIADO	4_hoc_cadenas/hoc1/hoc1.l
+compipracticas_codigo1/hocCadenas/hoc1/hoc1.y	COPIADO	4_hoc_cadenas/hoc1/hoc1.y
+compipracticas_codigo1/hocCadenas/hoc2/Makefile	COPIADO	4_hoc_cadenas/hoc2/Makefile
+compipracticas_codigo1/hocCadenas/hoc2/doble_calc.c	COPIADO	4_hoc_cadenas/hoc2/doble_calc.c
+compipracticas_codigo1/hocCadenas/hoc2/hoc.h	COPIADO	4_hoc_cadenas/hoc2/hoc.h
+compipracticas_codigo1/hocCadenas/hoc2/hoc2.l	COPIADO	4_hoc_cadenas/hoc2/hoc2.l
+compipracticas_codigo1/hocCadenas/hoc2/hoc2.y	COPIADO	4_hoc_cadenas/hoc2/hoc2.y
+compipracticas_codigo1/hocCadenas/hoc3/Makefile	COPIADO	4_hoc_cadenas/hoc3/Makefile
+compipracticas_codigo1/hocCadenas/hoc3/calc	OMITIDO	binario compilado (calc); se regenera con make
+compipracticas_codigo1/hocCadenas/hoc3/doble_calc.c	COPIADO	4_hoc_cadenas/hoc3/doble_calc.c
+compipracticas_codigo1/hocCadenas/hoc3/hoc.h	COPIADO	4_hoc_cadenas/hoc3/hoc.h
+compipracticas_codigo1/hocCadenas/hoc3/hoc3.l	COPIADO	4_hoc_cadenas/hoc3/hoc3.l
+compipracticas_codigo1/hocCadenas/hoc3/hoc3.y	COPIADO	4_hoc_cadenas/hoc3/hoc3.y
+compipracticas_codigo1/hocCadenas/hoc3/init.c	COPIADO	4_hoc_cadenas/hoc3/init.c
+compipracticas_codigo1/hocCadenas/hoc3/lex.yy.c	OMITIDO	archivo generado/regenerable (lex.yy.c)
+compipracticas_codigo1/hocCadenas/hoc3/math.c	COPIADO	4_hoc_cadenas/hoc3/math.c
+compipracticas_codigo1/hocCadenas/hoc3/math1.c	COPIADO	4_hoc_cadenas/hoc3/math1.c
+compipracticas_codigo1/hocCadenas/hoc3/symbol.c	COPIADO	4_hoc_cadenas/hoc3/symbol.c
+compipracticas_codigo1/hocCadenas/hoc3/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+compipracticas_codigo1/hocCadenas/hoc3/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+compipracticas_codigo1/hocCadenas/hoc4/Makefile	COPIADO	4_hoc_cadenas/hoc4/Makefile
+compipracticas_codigo1/hocCadenas/hoc4/code.c	COPIADO	4_hoc_cadenas/hoc4/code.c
+compipracticas_codigo1/hocCadenas/hoc4/doble_calc.c	COPIADO	4_hoc_cadenas/hoc4/doble_calc.c
+compipracticas_codigo1/hocCadenas/hoc4/ejemplo111.txt	COPIADO	4_hoc_cadenas/hoc4/ejemplo111.txt
+compipracticas_codigo1/hocCadenas/hoc4/hoc.h	COPIADO	4_hoc_cadenas/hoc4/hoc.h
+compipracticas_codigo1/hocCadenas/hoc4/hoc4.l	COPIADO	4_hoc_cadenas/hoc4/hoc4.l
+compipracticas_codigo1/hocCadenas/hoc4/hoc4.y	COPIADO	4_hoc_cadenas/hoc4/hoc4.y
+compipracticas_codigo1/hocCadenas/hoc4/hoc7pba.txt	COPIADO	4_hoc_cadenas/hoc4/hoc7pba.txt
+compipracticas_codigo1/hocCadenas/hoc4/init.c	COPIADO	4_hoc_cadenas/hoc4/init.c
+compipracticas_codigo1/hocCadenas/hoc4/math.c	COPIADO	4_hoc_cadenas/hoc4/math.c
+compipracticas_codigo1/hocCadenas/hoc4/p1.h	COPIADO	4_hoc_cadenas/hoc4/p1.h
+compipracticas_codigo1/hocCadenas/hoc4/p2.h	COPIADO	4_hoc_cadenas/hoc4/p2.h
+compipracticas_codigo1/hocCadenas/hoc4/pilap.c	COPIADO	4_hoc_cadenas/hoc4/pilap.c
+compipracticas_codigo1/hocCadenas/hoc4/symbol.c	COPIADO	4_hoc_cadenas/hoc4/symbol.c
+compipracticas_codigo1/hocCadenas/hoc4/tirar/doble_calctirar.c	COPIADO	4_hoc_cadenas/hoc4/tirar/doble_calctirar.c
+compipracticas_codigo1/hocCadenas/hoc4/tirar/hoctirar.h	COPIADO	4_hoc_cadenas/hoc4/tirar/hoctirar.h
+compipracticas_codigo1/hocCadenas/hoc4/tirar/initirar.c	COPIADO	4_hoc_cadenas/hoc4/tirar/initirar.c
+compipracticas_codigo1/hocCadenas/hoc4/tirar/mathtirar.c	COPIADO	4_hoc_cadenas/hoc4/tirar/mathtirar.c
+compipracticas_codigo1/hocCadenas/hoc4/tirar/symboltirar.c	COPIADO	4_hoc_cadenas/hoc4/tirar/symboltirar.c
+compipracticas_codigo1/hocCadenas/hoc5/Makefile	COPIADO	4_hoc_cadenas/hoc5/Makefile
+compipracticas_codigo1/hocCadenas/hoc5/code.c	COPIADO	4_hoc_cadenas/hoc5/code.c
+compipracticas_codigo1/hocCadenas/hoc5/doble_calc.c	COPIADO	4_hoc_cadenas/hoc5/doble_calc.c
+compipracticas_codigo1/hocCadenas/hoc5/hoc.h	COPIADO	4_hoc_cadenas/hoc5/hoc.h
+compipracticas_codigo1/hocCadenas/hoc5/hoc5.l	COPIADO	4_hoc_cadenas/hoc5/hoc5.l
+compipracticas_codigo1/hocCadenas/hoc5/hoc5.y	COPIADO	4_hoc_cadenas/hoc5/hoc5.y
+compipracticas_codigo1/hocCadenas/hoc5/init.c	COPIADO	4_hoc_cadenas/hoc5/init.c
+compipracticas_codigo1/hocCadenas/hoc5/math.c	COPIADO	4_hoc_cadenas/hoc5/math.c
+compipracticas_codigo1/hocCadenas/hoc5/old/ejemplo111.txt	COPIADO	4_hoc_cadenas/hoc5/old/ejemplo111.txt
+compipracticas_codigo1/hocCadenas/hoc5/old/hoc7pba.txt	COPIADO	4_hoc_cadenas/hoc5/old/hoc7pba.txt
+compipracticas_codigo1/hocCadenas/hoc5/old/p1.h	COPIADO	4_hoc_cadenas/hoc5/old/p1.h
+compipracticas_codigo1/hocCadenas/hoc5/old/p2.h	COPIADO	4_hoc_cadenas/hoc5/old/p2.h
+compipracticas_codigo1/hocCadenas/hoc5/pilap.c	COPIADO	4_hoc_cadenas/hoc5/pilap.c
+compipracticas_codigo1/hocCadenas/hoc5/symbol.c	COPIADO	4_hoc_cadenas/hoc5/symbol.c
+compipracticas_codigo1/hocCadenas/hoc6/Makefile	COPIADO	4_hoc_cadenas/hoc6/Makefile
+compipracticas_codigo1/hocCadenas/hoc6/code.c	COPIADO	4_hoc_cadenas/hoc6/code.c
+compipracticas_codigo1/hocCadenas/hoc6/doble_calc.c	COPIADO	4_hoc_cadenas/hoc6/doble_calc.c
+compipracticas_codigo1/hocCadenas/hoc6/ejemplo111.txt	COPIADO	4_hoc_cadenas/hoc6/ejemplo111.txt
+compipracticas_codigo1/hocCadenas/hoc6/hoc.h	COPIADO	4_hoc_cadenas/hoc6/hoc.h
+compipracticas_codigo1/hocCadenas/hoc6/hoc6.l	COPIADO	4_hoc_cadenas/hoc6/hoc6.l
+compipracticas_codigo1/hocCadenas/hoc6/hoc6.y	COPIADO	4_hoc_cadenas/hoc6/hoc6.y
+compipracticas_codigo1/hocCadenas/hoc6/hoc7pba.txt	COPIADO	4_hoc_cadenas/hoc6/hoc7pba.txt
+compipracticas_codigo1/hocCadenas/hoc6/init.c	COPIADO	4_hoc_cadenas/hoc6/init.c
+compipracticas_codigo1/hocCadenas/hoc6/math.c	COPIADO	4_hoc_cadenas/hoc6/math.c
+compipracticas_codigo1/hocCadenas/hoc6/p1.h	COPIADO	4_hoc_cadenas/hoc6/p1.h
+compipracticas_codigo1/hocCadenas/hoc6/p2.h	COPIADO	4_hoc_cadenas/hoc6/p2.h
+compipracticas_codigo1/hocCadenas/hoc6/pilap.c	COPIADO	4_hoc_cadenas/hoc6/pilap.c
+compipracticas_codigo1/hocCadenas/hoc6/symbol.c	COPIADO	4_hoc_cadenas/hoc6/symbol.c
+compipracticas_codigo1/hocCadenas/hoc6fallo/Makefile	COPIADO	4_hoc_cadenas/hoc6/old/hoc6fallo/Makefile
+compipracticas_codigo1/hocCadenas/hoc6fallo/code.c	COPIADO	4_hoc_cadenas/hoc6/old/hoc6fallo/code.c
+compipracticas_codigo1/hocCadenas/hoc6fallo/doble_calc.c	DUPLICADO	igual a 4_hoc_cadenas/hoc6/doble_calc.c
+compipracticas_codigo1/hocCadenas/hoc6fallo/ejemplo111.txt	DUPLICADO	igual a 4_hoc_cadenas/hoc6/ejemplo111.txt
+compipracticas_codigo1/hocCadenas/hoc6fallo/hoc.h	DUPLICADO	igual a 4_hoc_cadenas/hoc6/hoc.h
+compipracticas_codigo1/hocCadenas/hoc6fallo/hoc5.l	COPIADO	4_hoc_cadenas/hoc6/old/hoc6fallo/hoc5.l
+compipracticas_codigo1/hocCadenas/hoc6fallo/hoc5.y	COPIADO	4_hoc_cadenas/hoc6/old/hoc6fallo/hoc5.y
+compipracticas_codigo1/hocCadenas/hoc6fallo/hoc7pba.txt	DUPLICADO	igual a 4_hoc_cadenas/hoc6/hoc7pba.txt
+compipracticas_codigo1/hocCadenas/hoc6fallo/init.c	DUPLICADO	igual a 4_hoc_cadenas/hoc6/init.c
+compipracticas_codigo1/hocCadenas/hoc6fallo/math.c	DUPLICADO	igual a 4_hoc_cadenas/hoc6/math.c
+compipracticas_codigo1/hocCadenas/hoc6fallo/p1.h	DUPLICADO	igual a 4_hoc_cadenas/hoc6/p1.h
+compipracticas_codigo1/hocCadenas/hoc6fallo/p2.h	DUPLICADO	igual a 4_hoc_cadenas/hoc6/p2.h
+compipracticas_codigo1/hocCadenas/hoc6fallo/pilap.c	DUPLICADO	igual a 4_hoc_cadenas/hoc6/pilap.c
+compipracticas_codigo1/hocCadenas/hoc6fallo/symbol.c	DUPLICADO	igual a 4_hoc_cadenas/hoc6/symbol.c
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc4java/Maquina.java	COPIADO	3_hoc_java/hoc4java/Maquina.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc4java/Simbolo.java	COPIADO	3_hoc_java/hoc4java/Simbolo.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc4java/Tabla.java	COPIADO	3_hoc_java/hoc4java/Tabla.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc4java/hoc4.txt	COPIADO	3_hoc_java/hoc4java/hoc4.txt
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc4java/hoc4.y	COPIADO	3_hoc_java/hoc4java/hoc4.y
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc5javclase/Maquina.java	COPIADO	3_hoc_java/hoc5javclase/Maquina.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc5javclase/Simbolo.java	COPIADO	3_hoc_java/hoc5javclase/Simbolo.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc5javclase/Tabla.java	COPIADO	3_hoc_java/hoc5javclase/Tabla.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc5javclase/ciclo.txt	COPIADO	3_hoc_java/hoc5javclase/ciclo.txt
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc5javclase/hoc5j.txt	COPIADO	3_hoc_java/hoc5javclase/hoc5j.txt
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc5javclase/hoc5j.y	COPIADO	3_hoc_java/hoc5javclase/hoc5j.y
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6/Maquina.java	COPIADO	3_hoc_java/hoc6/Maquina.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6/Maquina0.java	COPIADO	3_hoc_java/hoc6/Maquina0.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6/Maquina1111.java	COPIADO	3_hoc_java/hoc6/Maquina1111.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6/Marco.java	COPIADO	3_hoc_java/hoc6/Marco.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6/Simbolo.java	COPIADO	3_hoc_java/hoc6/Simbolo.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6/Tabla.java	COPIADO	3_hoc_java/hoc6/Tabla.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6/ciclo.txt	COPIADO	3_hoc_java/hoc6/ciclo.txt
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6/ejemplos.txt	COPIADO	3_hoc_java/hoc6/ejemplos.txt
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6/ejemplotes.txt	COPIADO	3_hoc_java/hoc6/ejemplotes.txt
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6/hoc6j.txt	COPIADO	3_hoc_java/hoc6/hoc6j.txt
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6/hoc6j.y	COPIADO	3_hoc_java/hoc6/hoc6j.y
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6javclase/Maquina.java	COPIADO	3_hoc_java/hoc6javclase/Maquina.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6javclase/Maquina0.java	COPIADO	3_hoc_java/hoc6javclase/Maquina0.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6javclase/Maquina1111.java	COPIADO	3_hoc_java/hoc6javclase/Maquina1111.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6javclase/Marco.java	COPIADO	3_hoc_java/hoc6javclase/Marco.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6javclase/Simbolo.java	COPIADO	3_hoc_java/hoc6javclase/Simbolo.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6javclase/Tabla.java	COPIADO	3_hoc_java/hoc6javclase/Tabla.java
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6javclase/ciclo.txt	COPIADO	3_hoc_java/hoc6javclase/ciclo.txt
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6javclase/ejemplotes.txt	COPIADO	3_hoc_java/hoc6javclase/ejemplotes.txt
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6javclase/hoc6j.txt	COPIADO	3_hoc_java/hoc6javclase/hoc6j.txt
+compipracticas_codigo1/javahoc4hoc5y6ersion2/hoc6javclase/hoc6j.y	COPIADO	3_hoc_java/hoc6javclase/hoc6j.y
+compipracticas_codigo1/prac1compila.docx	COPIADO	1_documentos/enunciados_practicas/practica1_yacc_basico.docx
+compipracticas_codigo1/prac2compila.docx	COPIADO	1_documentos/enunciados_practicas/practica2_java_grafico.docx
+compipracticas_codigo1/prac3compila.doc	COPIADO	1_documentos/enunciados_practicas/practica3_tabla_simbolos.doc
+compipracticas_codigo1/prac3compila.docx	COPIADO	1_documentos/enunciados_practicas/practica3_tabla_simbolos.docx
+compipracticas_codigo1/prac4compila.docx	COPIADO	1_documentos/enunciados_practicas/practica4_maquina_pila.docx
+compipracticas_codigo1/prac5compila.docx	COPIADO	1_documentos/enunciados_practicas/practica5_if_while.docx
+compipracticas_codigo1/prac6compila.docx	COPIADO	1_documentos/enunciados_practicas/practica6_for.docx
+compipracticas_codigo1/prac7compila.docx	COPIADO	1_documentos/enunciados_practicas/practica7_funciones.docx
+compipracticas_codigo1/practica1/java/Complejo/Complejo.java	COPIADO	5_practicas/practica1_yacc_basico/java/Complejo/Complejo.java
+compipracticas_codigo1/practica1/java/Complejo/complejo_calc.y	COPIADO	5_practicas/practica1_yacc_basico/java/Complejo/complejo_calc.y
+compipracticas_codigo1/practica1/java/ComplejoRefle/Complejo.java	COPIADO	5_practicas/practica1_yacc_basico/java/ComplejoRefle/Complejo.java
+compipracticas_codigo1/practica1/java/ComplejoRefle/complejo_calc.y	COPIADO	5_practicas/practica1_yacc_basico/java/ComplejoRefle/complejo_calc.y
+compipracticas_codigo1/practica1/java/Conjunto/Conjunto1/Conjuntable.java	COPIADO	5_practicas/practica1_yacc_basico/java/Conjunto/Conjunto1/Conjuntable.java
+compipracticas_codigo1/practica1/java/Conjunto/Conjunto1/Conjunto.java	COPIADO	5_practicas/practica1_yacc_basico/java/Conjunto/Conjunto1/Conjunto.java
+compipracticas_codigo1/practica1/java/Conjunto/Conjunto1/Conjunto0.java	COPIADO	5_practicas/practica1_yacc_basico/java/Conjunto/Conjunto1/Conjunto0.java
+compipracticas_codigo1/practica1/java/Conjunto/Conjunto1/Conjunto1.java	COPIADO	5_practicas/practica1_yacc_basico/java/Conjunto/Conjunto1/Conjunto1.java
+compipracticas_codigo1/practica1/java/Conjunto/Conjunto1/conjunto_calc.y	COPIADO	5_practicas/practica1_yacc_basico/java/Conjunto/Conjunto1/conjunto_calc.y
+compipracticas_codigo1/practica1/java/Conjunto/Conjunto2/Conjunto.java	COPIADO	5_practicas/practica1_yacc_basico/java/Conjunto/Conjunto2/Conjunto.java
+compipracticas_codigo1/practica1/java/ConjuntoRefle/Conjuntable.java	COPIADO	5_practicas/practica1_yacc_basico/java/ConjuntoRefle/Conjuntable.java
+compipracticas_codigo1/practica1/java/ConjuntoRefle/Conjunto.java	COPIADO	5_practicas/practica1_yacc_basico/java/ConjuntoRefle/Conjunto.java
+compipracticas_codigo1/practica1/java/ConjuntoRefle/Conjunto0.java	COPIADO	5_practicas/practica1_yacc_basico/java/ConjuntoRefle/Conjunto0.java
+compipracticas_codigo1/practica1/java/ConjuntoRefle/Conjunto1.java	COPIADO	5_practicas/practica1_yacc_basico/java/ConjuntoRefle/Conjunto1.java
+compipracticas_codigo1/practica1/java/ConjuntoRefle/conjunto_calc.y	COPIADO	5_practicas/practica1_yacc_basico/java/ConjuntoRefle/conjunto_calc.y
+compipracticas_codigo1/practica1/java/Matriz/Matriz.java	COPIADO	5_practicas/practica1_yacc_basico/java/Matriz/Matriz.java
+compipracticas_codigo1/practica1/java/Matriz/matriz_calc.y	COPIADO	5_practicas/practica1_yacc_basico/java/Matriz/matriz_calc.y
+compipracticas_codigo1/practica1/java/MatrizRefle/Matriz.java	COPIADO	5_practicas/practica1_yacc_basico/java/MatrizRefle/Matriz.java
+compipracticas_codigo1/practica1/java/MatrizRefle/matriz_calc.y	COPIADO	5_practicas/practica1_yacc_basico/java/MatrizRefle/matriz_calc.y
+compipracticas_codigo1/practica1/java/PolinomioRefle/Polinomio.java	COPIADO	5_practicas/practica1_yacc_basico/java/PolinomioRefle/Polinomio.java
+compipracticas_codigo1/practica1/java/PolinomioRefle/polinomio_calc.y	COPIADO	5_practicas/practica1_yacc_basico/java/PolinomioRefle/polinomio_calc.y
+compipracticas_codigo1/practica1/java/Quilt/Quilt.java	COPIADO	5_practicas/practica1_yacc_basico/java/Quilt/Quilt.java
+compipracticas_codigo1/practica1/java/Quilt/Quilt.y	COPIADO	5_practicas/practica1_yacc_basico/java/Quilt/Quilt.y
+compipracticas_codigo1/practica1/java/Quilt/ejemplos.txt	COPIADO	5_practicas/practica1_yacc_basico/java/Quilt/ejemplos.txt
+compipracticas_codigo1/practica1/java/QuiltRefle/Quilt.java	COPIADO	5_practicas/practica1_yacc_basico/java/QuiltRefle/Quilt.java
+compipracticas_codigo1/practica1/java/QuiltRefle/Quilt.y	COPIADO	5_practicas/practica1_yacc_basico/java/QuiltRefle/Quilt.y
+compipracticas_codigo1/practica1/java/QuiltRefle/ejemplos.txt	COPIADO	5_practicas/practica1_yacc_basico/java/QuiltRefle/ejemplos.txt
+compipracticas_codigo1/practica1/java/Racional/Racional.java	COPIADO	5_practicas/practica1_yacc_basico/java/Racional/Racional.java
+compipracticas_codigo1/practica1/java/Racional/racional_calc.y	COPIADO	5_practicas/practica1_yacc_basico/java/Racional/racional_calc.y
+compipracticas_codigo1/practica1/java/RacionalRefle/Racional.java	COPIADO	5_practicas/practica1_yacc_basico/java/RacionalRefle/Racional.java
+compipracticas_codigo1/practica1/java/RacionalRefle/racional_calc.y	COPIADO	5_practicas/practica1_yacc_basico/java/RacionalRefle/racional_calc.y
+compipracticas_codigo1/practica1/java/Vector/Vector.java	COPIADO	5_practicas/practica1_yacc_basico/java/Vector/Vector.java
+compipracticas_codigo1/practica1/java/Vector/Vector0.java	COPIADO	5_practicas/practica1_yacc_basico/java/Vector/Vector0.java
+compipracticas_codigo1/practica1/java/Vector/vector_calc.y	COPIADO	5_practicas/practica1_yacc_basico/java/Vector/vector_calc.y
+compipracticas_codigo1/practica1/java/VectorRefle/Vector.java	COPIADO	5_practicas/practica1_yacc_basico/java/VectorRefle/Vector.java
+compipracticas_codigo1/practica1/java/VectorRefle/Vector0.java	COPIADO	5_practicas/practica1_yacc_basico/java/VectorRefle/Vector0.java
+compipracticas_codigo1/practica1/java/VectorRefle/vector_calc.y	COPIADO	5_practicas/practica1_yacc_basico/java/VectorRefle/vector_calc.y
+compipracticas_codigo1/practica1/java/calc/calc.y	COPIADO	5_practicas/practica1_yacc_basico/java/calc/calc.y
+compipracticas_codigo1/practica1/java/conversa/conversa.y	COPIADO	5_practicas/practica1_yacc_basico/java/conversa/conversa.y
+compipracticas_codigo1/practica1/java/conversa/pba.txt	COPIADO	5_practicas/practica1_yacc_basico/java/conversa/pba.txt
+compipracticas_codigo1/practica1/lenguajeC/arbol/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/arbol/Makefile
+compipracticas_codigo1/practica1/lenguajeC/arbol/arbol	OMITIDO	binario compilado (arbol); se regenera con make
+compipracticas_codigo1/practica1/lenguajeC/arbol/arboles.h	COPIADO	5_practicas/practica1_yacc_basico/c/arbol/arboles.h
+compipracticas_codigo1/practica1/lenguajeC/arbol/arboles.y	COPIADO	5_practicas/practica1_yacc_basico/c/arbol/arboles.y
+compipracticas_codigo1/practica1/lenguajeC/arbol/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+compipracticas_codigo1/practica1/lenguajeC/arbol/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+compipracticas_codigo1/practica1/lenguajeC/complejo/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/complejo/Makefile
+compipracticas_codigo1/practica1/lenguajeC/complejo/complejo_calc.c	COPIADO	5_practicas/practica1_yacc_basico/c/complejo/complejo_calc.c
+compipracticas_codigo1/practica1/lenguajeC/complejo/complejo_calc.l	COPIADO	5_practicas/practica1_yacc_basico/c/complejo/complejo_calc.l
+compipracticas_codigo1/practica1/lenguajeC/complejo/vjo/complejo_calc.c	COPIADO	5_practicas/practica1_yacc_basico/c/complejo/old/complejo_calc.c
+compipracticas_codigo1/practica1/lenguajeC/complejo/vjo/complejo_calc.h	COPIADO	5_practicas/practica1_yacc_basico/c/complejo/old/complejo_calc.h
+compipracticas_codigo1/practica1/lenguajeC/conjunto/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/conjunto/Makefile
+compipracticas_codigo1/practica1/lenguajeC/conjunto/conjunto_calc.c	COPIADO	5_practicas/practica1_yacc_basico/c/conjunto/conjunto_calc.c
+compipracticas_codigo1/practica1/lenguajeC/conjunto/conjunto_calc.h	COPIADO	5_practicas/practica1_yacc_basico/c/conjunto/conjunto_calc.h
+compipracticas_codigo1/practica1/lenguajeC/deriva/deriva.c	COPIADO	5_practicas/practica1_yacc_basico/c/deriva/deriva.c
+compipracticas_codigo1/practica1/lenguajeC/emite/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/emite/Makefile
+compipracticas_codigo1/practica1/lenguajeC/emite/compi.asm	OMITIDO	archivo vacio
+compipracticas_codigo1/practica1/lenguajeC/emite/compiasm.txt	COPIADO	5_practicas/practica1_yacc_basico/c/emite/compiasm.txt
+compipracticas_codigo1/practica1/lenguajeC/emite/emite.h	COPIADO	5_practicas/practica1_yacc_basico/c/emite/emite.h
+compipracticas_codigo1/practica1/lenguajeC/emite/emite.y	COPIADO	5_practicas/practica1_yacc_basico/c/emite/emite.y
+compipracticas_codigo1/practica1/lenguajeC/emite/emitey.txt	COPIADO	5_practicas/practica1_yacc_basico/c/emite/emitey.txt
+compipracticas_codigo1/practica1/lenguajeC/emite1/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/emite1/Makefile
+compipracticas_codigo1/practica1/lenguajeC/emite1/ejem.txt	COPIADO	5_practicas/practica1_yacc_basico/c/emite1/ejem.txt
+compipracticas_codigo1/practica1/lenguajeC/emite1/emite.h	COPIADO	5_practicas/practica1_yacc_basico/c/emite1/emite.h
+compipracticas_codigo1/practica1/lenguajeC/emite1/emite.y	COPIADO	5_practicas/practica1_yacc_basico/c/emite1/emite.y
+compipracticas_codigo1/practica1/lenguajeC/grande/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/Makefile
+compipracticas_codigo1/practica1/lenguajeC/grande/big	OMITIDO	binario compilado (big); se regenera con make
+compipracticas_codigo1/practica1/lenguajeC/grande/big_calc.c	COPIADO	5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/big_calc.c
+compipracticas_codigo1/practica1/lenguajeC/grande/big_calc.h	COPIADO	5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/big_calc.h
+compipracticas_codigo1/practica1/lenguajeC/grande/big_calc.y	COPIADO	5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/big_calc.y
+compipracticas_codigo1/practica1/lenguajeC/grande/big_calc0.c	COPIADO	5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/old/big_calc0.c
+compipracticas_codigo1/practica1/lenguajeC/grande/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+compipracticas_codigo1/practica1/lenguajeC/grande/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+compipracticas_codigo1/practica1/lenguajeC/hoc1/anterior/Makefile	COPIADO	2_hoc_c/hoc1/Makefile
+compipracticas_codigo1/practica1/lenguajeC/hoc1/anterior/ayacc	OMITIDO	archivo generado/regenerable (ayacc)
+compipracticas_codigo1/practica1/lenguajeC/hoc1/anterior/calc	OMITIDO	binario compilado (calc); se regenera con make
+compipracticas_codigo1/practica1/lenguajeC/hoc1/anterior/hoc1.y	COPIADO	2_hoc_c/hoc1/hoc1.y
+compipracticas_codigo1/practica1/lenguajeC/hoc1/anterior/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+compipracticas_codigo1/practica1/lenguajeC/hoc1/anterior/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+compipracticas_codigo1/practica1/lenguajeC/hoc1/anterior/yacc.acts	OMITIDO	archivo generado/regenerable (yacc.acts)
+compipracticas_codigo1/practica1/lenguajeC/hoc1/anterior/yacc.tmp	OMITIDO	archivo generado/regenerable (yacc.tmp)
+compipracticas_codigo1/practica1/lenguajeC/hoc1/calcNumG	OMITIDO	binario compilado (calcNumG); se regenera con make
+compipracticas_codigo1/practica1/lenguajeC/hoc1/hoc1.y	COPIADO	5_practicas/practica1_yacc_basico/c/numeros_grandes/v2_cadenas/hoc1.y
+compipracticas_codigo1/practica1/lenguajeC/hoc1/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+compipracticas_codigo1/practica1/lenguajeC/hoc1/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+compipracticas_codigo1/practica1/lenguajeC/lenguajenatu/conversa.c	COPIADO	5_practicas/practica1_yacc_basico/c/lenguajenatu/conversa.c
+compipracticas_codigo1/practica1/lenguajeC/matriz/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/matriz/Makefile
+compipracticas_codigo1/practica1/lenguajeC/matriz/matriz_calc.c	COPIADO	5_practicas/practica1_yacc_basico/c/matriz/matriz_calc.c
+compipracticas_codigo1/practica1/lenguajeC/matriz/matriz_calc.h	COPIADO	5_practicas/practica1_yacc_basico/c/matriz/matriz_calc.h
+compipracticas_codigo1/practica1/lenguajeC/perros/a.out	OMITIDO	archivo generado/regenerable (a.out)
+compipracticas_codigo1/practica1/lenguajeC/perros/listaperros.c	COPIADO	5_practicas/practica1_yacc_basico/c/perros/listaperros.c
+compipracticas_codigo1/practica1/lenguajeC/polinoArray/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/polinoArray/Makefile
+compipracticas_codigo1/practica1/lenguajeC/polinoArray/lex.yy.c	OMITIDO	archivo generado/regenerable (lex.yy.c)
+compipracticas_codigo1/practica1/lenguajeC/polinoArray/poli	OMITIDO	binario compilado (poli); se regenera con make
+compipracticas_codigo1/practica1/lenguajeC/polinoArray/polinomio_calc.c	COPIADO	5_practicas/practica1_yacc_basico/c/polinoArray/polinomio_calc.c
+compipracticas_codigo1/practica1/lenguajeC/polinoArray/polinomio_calc.h	COPIADO	5_practicas/practica1_yacc_basico/c/polinoArray/polinomio_calc.h
+compipracticas_codigo1/practica1/lenguajeC/polinoArray/polinomio_calc.l	COPIADO	5_practicas/practica1_yacc_basico/c/polinoArray/polinomio_calc.l
+compipracticas_codigo1/practica1/lenguajeC/polinoArray/polinomio_calc.y	COPIADO	5_practicas/practica1_yacc_basico/c/polinoArray/polinomio_calc.y
+compipracticas_codigo1/practica1/lenguajeC/polinoArray/polinomio_calc00.c	COPIADO	5_practicas/practica1_yacc_basico/c/polinoArray/polinomio_calc00.c
+compipracticas_codigo1/practica1/lenguajeC/polinoArray/polyno.c	COPIADO	5_practicas/practica1_yacc_basico/c/polinoArray/polyno.c
+compipracticas_codigo1/practica1/lenguajeC/polinoArray/polyno.h	COPIADO	5_practicas/practica1_yacc_basico/c/polinoArray/polyno.h
+compipracticas_codigo1/practica1/lenguajeC/polinoArray/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+compipracticas_codigo1/practica1/lenguajeC/polinoArray/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+compipracticas_codigo1/practica1/lenguajeC/polinomio/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/polinomio/Makefile
+compipracticas_codigo1/practica1/lenguajeC/polinomio/ejemplo.txt	COPIADO	5_practicas/practica1_yacc_basico/c/polinomio/ejemplo.txt
+compipracticas_codigo1/practica1/lenguajeC/polinomio/polinomio_calc.c	COPIADO	5_practicas/practica1_yacc_basico/c/polinomio/polinomio_calc.c
+compipracticas_codigo1/practica1/lenguajeC/polinomio/polinomio_calc.h	COPIADO	5_practicas/practica1_yacc_basico/c/polinomio/polinomio_calc.h
+compipracticas_codigo1/practica1/lenguajeC/polinomio/polinomio_calc.l	COPIADO	5_practicas/practica1_yacc_basico/c/polinomio/polinomio_calc.l
+compipracticas_codigo1/practica1/lenguajeC/polinomio/polinomio_calc.y	COPIADO	5_practicas/practica1_yacc_basico/c/polinomio/polinomio_calc.y
+compipracticas_codigo1/practica1/lenguajeC/polinomio/vjo/polinomio0_cal.c	COPIADO	5_practicas/practica1_yacc_basico/c/polinomio/old/polinomio0_cal.c
+compipracticas_codigo1/practica1/lenguajeC/polinomio/vjo/polinomio_cal.c	COPIADO	5_practicas/practica1_yacc_basico/c/polinomio/old/polinomio_cal.c
+compipracticas_codigo1/practica1/lenguajeC/quilt/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/quilt/Makefile
+compipracticas_codigo1/practica1/lenguajeC/quilt/quilt.c	COPIADO	5_practicas/practica1_yacc_basico/c/quilt/quilt.c
+compipracticas_codigo1/practica1/lenguajeC/quilt/quilt.h	COPIADO	5_practicas/practica1_yacc_basico/c/quilt/quilt.h
+compipracticas_codigo1/practica1/lenguajeC/racional/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/racional/Makefile
+compipracticas_codigo1/practica1/lenguajeC/racional/racional_calc.c	COPIADO	5_practicas/practica1_yacc_basico/c/racional/racional_calc.c
+compipracticas_codigo1/practica1/lenguajeC/racional/racional_calc.h	COPIADO	5_practicas/practica1_yacc_basico/c/racional/racional_calc.h
+compipracticas_codigo1/practica1/lenguajeC/racional/racional_calc.l	COPIADO	5_practicas/practica1_yacc_basico/c/racional/racional_calc.l
+compipracticas_codigo1/practica1/lenguajeC/vector/Makefile	COPIADO	5_practicas/practica1_yacc_basico/c/vector/Makefile
+compipracticas_codigo1/practica1/lenguajeC/vector/vector_calc.c	COPIADO	5_practicas/practica1_yacc_basico/c/vector/vector_calc.c
+compipracticas_codigo1/practica1/lenguajeC/vector/vector_calc.h	COPIADO	5_practicas/practica1_yacc_basico/c/vector/vector_calc.h
+compipracticas_codigo1/practica1/lenguajeCP.tar.gz	COPIADO	_archivo/respaldos/lenguajeCP_2025-03.tar.gz
+compipracticas_codigo1/practica1/vjoquilt/Colcha.java	COPIADO	5_practicas/practica1_yacc_basico/java/Quilt/old_vjoquilt/Colcha.java
+compipracticas_codigo1/practica1/vjoquilt/Quiltdebug.y	COPIADO	5_practicas/practica1_yacc_basico/java/Quilt/old_vjoquilt/Quiltdebug.y
+compipracticas_codigo1/practica1/vjoquilt/quilt.c	COPIADO	5_practicas/practica1_yacc_basico/java/Quilt/old_vjoquilt/quilt.c
+compipracticas_codigo1/practica1/vjoquilt/quilt.h	COPIADO	5_practicas/practica1_yacc_basico/java/Quilt/old_vjoquilt/quilt.h
+compipracticas_codigo1/practica1/vjoquilt/quilt.y	COPIADO	5_practicas/practica1_yacc_basico/java/Quilt/old_vjoquilt/quilt.y
+compipracticas_codigo1/practica2/aliceCartman/AccionInt.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/AccionInt.java
+compipracticas_codigo1/practica2/aliceCartman/Cartman.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Cartman.java
+compipracticas_codigo1/practica2/aliceCartman/Gira.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Gira.java
+compipracticas_codigo1/practica2/aliceCartman/MS3DLoader.jar	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/MS3DLoader.jar
+compipracticas_codigo1/practica2/aliceCartman/Maquina.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Maquina.java
+compipracticas_codigo1/practica2/aliceCartman/Modelo.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Modelo.java
+compipracticas_codigo1/practica2/aliceCartman/Models/Big Gay Al1.ms3d	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Big Gay Al1.ms3d
+compipracticas_codigo1/practica2/aliceCartman/Models/Big Gay Al2.ms3d	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Big Gay Al2.ms3d
+compipracticas_codigo1/practica2/aliceCartman/Models/CASTLE.COB	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/CASTLE.COB
+compipracticas_codigo1/practica2/aliceCartman/Models/COOLROBO.3DS	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/COOLROBO.3DS
+compipracticas_codigo1/practica2/aliceCartman/Models/Cartman1.ms3d	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Cartman1.ms3d
+compipracticas_codigo1/practica2/aliceCartman/Models/Cartman2.ms3d	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Cartman2.ms3d
+compipracticas_codigo1/practica2/aliceCartman/Models/Chef1.ms3d	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Chef1.ms3d
+compipracticas_codigo1/practica2/aliceCartman/Models/Chef2.ms3d	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Chef2.ms3d
+compipracticas_codigo1/practica2/aliceCartman/Models/Kenny1.ms3d	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Kenny1.ms3d
+compipracticas_codigo1/practica2/aliceCartman/Models/Kenny2.ms3d	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Kenny2.ms3d
+compipracticas_codigo1/practica2/aliceCartman/Models/Kyle1.ms3d	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Kyle1.ms3d
+compipracticas_codigo1/practica2/aliceCartman/Models/Kyle2.ms3d	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Kyle2.ms3d
+compipracticas_codigo1/practica2/aliceCartman/Models/Rueda.wrl	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Rueda.wrl
+compipracticas_codigo1/practica2/aliceCartman/Models/Stan1.ms3d	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Stan1.ms3d
+compipracticas_codigo1/practica2/aliceCartman/Models/Stan2.ms3d	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/Stan2.ms3d
+compipracticas_codigo1/practica2/aliceCartman/Models/cylinderBottom.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/cylinderBottom.jpg
+compipracticas_codigo1/practica2/aliceCartman/Models/cylinderSide.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/cylinderSide.png
+compipracticas_codigo1/practica2/aliceCartman/Models/cylinderTop.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/cylinderTop.jpg
+compipracticas_codigo1/practica2/aliceCartman/Models/hand1.obj	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/hand1.obj
+compipracticas_codigo1/practica2/aliceCartman/Models/horse.obj	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/horse.obj
+compipracticas_codigo1/practica2/aliceCartman/Models/house01_front.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/house01_front.png
+compipracticas_codigo1/practica2/aliceCartman/Models/house01_side.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/house01_side.png
+compipracticas_codigo1/practica2/aliceCartman/Models/house01_top.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/house01_top.png
+compipracticas_codigo1/practica2/aliceCartman/Models/house02_front.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/house02_front.png
+compipracticas_codigo1/practica2/aliceCartman/Models/house02_side.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/house02_side.png
+compipracticas_codigo1/practica2/aliceCartman/Models/house02_top.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/house02_top.png
+compipracticas_codigo1/practica2/aliceCartman/Models/house03_front.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/house03_front.png
+compipracticas_codigo1/practica2/aliceCartman/Models/house03_side.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/house03_side.png
+compipracticas_codigo1/practica2/aliceCartman/Models/house03_top.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/house03_top.png
+compipracticas_codigo1/practica2/aliceCartman/Models/house04_front.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/house04_front.png
+compipracticas_codigo1/practica2/aliceCartman/Models/house04_side.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/house04_side.png
+compipracticas_codigo1/practica2/aliceCartman/Models/house04_top.png	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/house04_top.png
+compipracticas_codigo1/practica2/aliceCartman/Models/koskin.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/koskin.jpg
+compipracticas_codigo1/practica2/aliceCartman/Models/koskin2.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/koskin2.jpg
+compipracticas_codigo1/practica2/aliceCartman/Models/loadingscreen.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/loadingscreen.jpg
+compipracticas_codigo1/practica2/aliceCartman/Models/ratonsol.wrl	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/ratonsol.wrl
+compipracticas_codigo1/practica2/aliceCartman/Models/ratonsolCoords.txt	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/ratonsolCoords.txt
+compipracticas_codigo1/practica2/aliceCartman/Models/skjorta.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/skjorta.jpg
+compipracticas_codigo1/practica2/aliceCartman/Models/skjorta2.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Models/skjorta2.jpg
+compipracticas_codigo1/practica2/aliceCartman/Paleta.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica2/aliceCartman/Paleta.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Paleta.java
+compipracticas_codigo1/practica2/aliceCartman/ParserTokens.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/ParserTokens.java
+compipracticas_codigo1/practica2/aliceCartman/Posi.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Posi.java
+compipracticas_codigo1/practica2/aliceCartman/Simbolo.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Simbolo.java
+compipracticas_codigo1/practica2/aliceCartman/Tabla.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Tabla.java
+compipracticas_codigo1/practica2/aliceCartman/Texturas.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/Texturas.java
+compipracticas_codigo1/practica2/aliceCartman/almohada.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/almohada.jpg
+compipracticas_codigo1/practica2/aliceCartman/canal.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/canal.jpg
+compipracticas_codigo1/practica2/aliceCartman/j3dcore.jar	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/j3dcore.jar
+compipracticas_codigo1/practica2/aliceCartman/j3dutils.jar	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/j3dutils.jar
+compipracticas_codigo1/practica2/aliceCartman/karel.y	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/karel.y
+compipracticas_codigo1/practica2/aliceCartman/lesson08b.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/lesson08b.java
+compipracticas_codigo1/practica2/aliceCartman/marco1.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/marco1.jpg
+compipracticas_codigo1/practica2/aliceCartman/marco2.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/marco2.jpg
+compipracticas_codigo1/practica2/aliceCartman/marco3.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/marco3.jpg
+compipracticas_codigo1/practica2/aliceCartman/marco4.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/marco4.jpg
+compipracticas_codigo1/practica2/aliceCartman/marco5.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/marco5.jpg
+compipracticas_codigo1/practica2/aliceCartman/marco6.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/marco6.jpg
+compipracticas_codigo1/practica2/aliceCartman/muebles.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/muebles.jpg
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/.nbattrs	OMITIDO	archivo generado/regenerable (.nbattrs)
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Cama.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Cama.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Cama.java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Mesa.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Mesa.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Mesa.java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Pared.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Pared.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Pared.java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Pieza.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Pieza.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Pieza.java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Puerta.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Puerta.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Puerta.java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/SeActivaAlAcercarse.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/SeActivaAlAcercarse.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/objetos3D/SeActivaAlAcercarse.java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Suelo.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Suelo.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Suelo.java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/TV.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/TV.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/objetos3D/TV.java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Techo.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica2/aliceCartman/objetos3D/Techo.java	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Techo.java
+compipracticas_codigo1/practica2/aliceCartman/pared1.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/pared1.jpg
+compipracticas_codigo1/practica2/aliceCartman/pared2.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/pared2.jpg
+compipracticas_codigo1/practica2/aliceCartman/pared3.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/pared3.jpg
+compipracticas_codigo1/practica2/aliceCartman/pared4.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/pared4.jpg
+compipracticas_codigo1/practica2/aliceCartman/pared5.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/pared5.jpg
+compipracticas_codigo1/practica2/aliceCartman/pared6.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/pared6.jpg
+compipracticas_codigo1/practica2/aliceCartman/portfolio.jar	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/portfolio.jar
+compipracticas_codigo1/practica2/aliceCartman/puerta1.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/puerta1.jpg
+compipracticas_codigo1/practica2/aliceCartman/sabana.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/sabana.jpg
+compipracticas_codigo1/practica2/aliceCartman/suelo1.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/suelo1.jpg
+compipracticas_codigo1/practica2/aliceCartman/techo1.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/techo1.jpg
+compipracticas_codigo1/practica2/aliceCartman/techo2.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/techo2.jpg
+compipracticas_codigo1/practica2/aliceCartman/techo3.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/techo3.jpg
+compipracticas_codigo1/practica2/aliceCartman/techo4.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/techo4.jpg
+compipracticas_codigo1/practica2/aliceCartman/techo5.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/techo5.jpg
+compipracticas_codigo1/practica2/aliceCartman/techo6.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/techo6.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/almohada.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/almohada.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/canal.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/canal.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/marco1.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/marco1.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/marco2.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/marco2.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/marco3.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/marco3.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/marco4.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/marco4.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/marco5.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/marco5.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/marco6.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/marco6.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/muebles.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/muebles.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/pared1.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/pared1.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/pared2.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/pared2.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/pared3.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/pared3.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/pared4.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/pared4.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/pared5.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/pared5.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/pared6.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/pared6.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/puerta1.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/puerta1.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/sabana.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/sabana.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/suelo1.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/suelo1.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/techo1.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/techo1.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/techo2.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/techo2.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/techo3.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/techo3.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/techo4.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/techo4.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/techo5.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/techo5.jpg
+compipracticas_codigo1/practica2/aliceCartman/texturas/techo6.jpg	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/texturas/techo6.jpg
+compipracticas_codigo1/practica2/aliceCartman/vecmath.jar	DUPLICADO	igual a 5_practicas/practica2_java_grafico/aliceCartman/vecmath.jar
+compipracticas_codigo1/practica2/arbol/Makefile	COPIADO	5_practicas/practica2_java_grafico/arbol/Makefile
+compipracticas_codigo1/practica2/arbol/arboles.h	COPIADO	5_practicas/practica2_java_grafico/arbol/arboles.h
+compipracticas_codigo1/practica2/arbol/arbolesy.txt	COPIADO	5_practicas/practica2_java_grafico/arbol/arbolesy.txt
+compipracticas_codigo1/practica2/capitu8.doc	DUPLICADO	igual a 1_documentos/referencia/capitu8.doc
+compipracticas_codigo1/practica2/capitu8.rtf	DUPLICADO	igual a 1_documentos/referencia/capitu8.rtf
+compipracticas_codigo1/practica2/emiteredu/compi.asm	COPIADO	5_practicas/practica2_java_grafico/emiteredu/compi.asm
+compipracticas_codigo1/practica2/emiteredu/emite.h	COPIADO	5_practicas/practica2_java_grafico/emiteredu/emite.h
+compipracticas_codigo1/practica2/emiteredu/emite1.y	COPIADO	5_practicas/practica2_java_grafico/emiteredu/emite1.y
+compipracticas_codigo1/practica2/expregul/Makefile	COPIADO	5_practicas/practica2_java_grafico/expregul/Makefile
+compipracticas_codigo1/practica2/expregul/regexp.h	COPIADO	5_practicas/practica2_java_grafico/expregul/regexp.h
+compipracticas_codigo1/practica2/expregul/simpley.txt	COPIADO	5_practicas/practica2_java_grafico/expregul/simpley.txt
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi0/Circulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi0/Circulo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi0/Dibujable.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi0/Dibujable.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi0/Linea.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi0/Linea.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi0/Maquina.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi0/Maquina.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi0/Rectangulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi0/Rectangulo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi0/Simbolo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi0/Simbolo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi0/Tabla.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi0/Tabla.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi0/forma.y	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi0/forma.y
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/AccionInt.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/AccionInt.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/Circulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/Circulo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/Dibujable.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/Dibujable.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/Linea.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/Linea.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/Maquina.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/Maquina.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/Paleta.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/Paleta.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/PanelEjecuta.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/PanelEjecuta.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/Rectangulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/Rectangulo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/Simbolo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/Simbolo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/Tabla.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/Tabla.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/ejemplo.txt	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/ejemplo.txt
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/forma.y	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/forma.y
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi1/forma.y0	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi1/forma.y0
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/AccionInt.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/AccionInt.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/Circulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/Circulo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/Dibujable.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/Dibujable.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/Filtradora.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/Filtradora.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/Imagen.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/Imagen.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/Linea.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/Linea.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/Maquina.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/Maquina.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/Paleta.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/Paleta.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/PanelEjecuta.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/PanelEjecuta.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/Rectangulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/Rectangulo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/Simbolo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/Simbolo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/Tabla.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/Tabla.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/dalmata.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/dalmata.jpg
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/ejemplo.txt	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/ejemplo.txt
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/forma.y	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/forma.y
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi2/forma.y0	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi2/forma.y0
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/AccionInt.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/AccionInt.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/Circulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/Circulo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/Dibujable.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/Dibujable.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/Filtradora.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/Filtradora.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/Imagen.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/Imagen.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/Linea.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/Linea.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/Maquina.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/Maquina.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/Paleta.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/Paleta.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/PanelEjecuta.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/PanelEjecuta.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/Rectangulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/Rectangulo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/Simbolo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/Simbolo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/dalmata.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/dalmata.jpg
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/ejemplo.txt	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/ejemplo.txt
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3/forma.y	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3/forma.y
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/AccionInt.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/AccionInt.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Circulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Circulo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/ColourConstants.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/ColourConstants.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/CylinderCreator.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/CylinderCreator.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Dibujable.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Dibujable.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Filtradora.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Filtradora.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Imagen.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Imagen.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Imagen.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Imagen.jpg
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Linea.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Linea.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Maquina.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Maquina.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Paleta.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Paleta.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/PanelEjecuta.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/PanelEjecuta.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Picture.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Picture.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Picture0.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Picture0.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Posi.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Posi.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Rectangulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Rectangulo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Simbolo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Simbolo.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/Tabla.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/Tabla.java
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/cielo.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/cielo.jpg
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/dalmata.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/dalmata.jpg
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/ejemplo.txt	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/ejemplo.txt
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/ejemplo___.txt	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/ejemplo___.txt
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/exterior.png	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/exterior.png
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/fondo.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/fondo.jpg
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/forma.y	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/forma.y
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/forma.y0	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/forma.y0
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/piso.png	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/piso.png
+compipracticas_codigo1/practica2/grafibasico/conmaquina/grafibasi3d/saved.png	COPIADO	5_practicas/practica2_java_grafico/grafibasico/conmaquina/grafibasi3d/saved.png
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/AccionInt.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/AccionInt.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Cilindro.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Cilindro.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Circulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Circulo.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/ColourConstants.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/ColourConstants.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/CubeCreator.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/CubeCreator.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Cubo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Cubo.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/CylinderCreator.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/CylinderCreator.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Dibujable.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Dibujable.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Esfera.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Esfera.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Filtradora.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Filtradora.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Imagen.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Imagen.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Imagen.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Imagen.jpg
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Paleta.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Paleta.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/PanelEjecuta.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/PanelEjecuta.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Parser.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Parser.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/ParserVal.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/ParserVal.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Picture.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Picture.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Picture0.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Picture0.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Posi.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Posi.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Rectangulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Rectangulo.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Simbolo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Simbolo.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/SphereCreator.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/SphereCreator.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/Tabla.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/Tabla.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/cielo.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/cielo.jpg
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/dalmata.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/dalmata.jpg
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/ejemplo.txt	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/ejemplo.txt
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/ejemplo___.txt	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/ejemplo___.txt
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/exterior.png	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/exterior.png
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/fondo.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/fondo.jpg
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/forma.y	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/forma.y
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/piso.png	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/piso.png
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grabasi3d/saved.png	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grabasi3d/saved.png
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/AccionInt.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/AccionInt.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Circulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Circulo.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/ColourConstants.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/ColourConstants.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/CylinderCreator.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/CylinderCreator.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Dibujable.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Dibujable.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Filtradora.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Filtradora.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Imagen.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Imagen.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Imagen.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Imagen.jpg
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Linea.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Linea.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Paleta.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Paleta.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/PanelEjecuta.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/PanelEjecuta.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Parser.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Parser.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/ParserVal.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/ParserVal.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Picture.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Picture.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Picture0.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Picture0.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Posi.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Posi.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Rectangulo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Rectangulo.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Simbolo.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Simbolo.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/Tabla.java	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/Tabla.java
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/cielo.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/cielo.jpg
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/dalmata.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/dalmata.jpg
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/ejemplo.txt	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/ejemplo.txt
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/ejemplo___.txt	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/ejemplo___.txt
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/exterior.png	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/exterior.png
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/fondo.jpg	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/fondo.jpg
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/forma.y	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/forma.y
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/piso.png	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/piso.png
+compipracticas_codigo1/practica2/grafibasico/sinmaquina/grafbasi2dymedio/saved.png	COPIADO	5_practicas/practica2_java_grafico/grafibasico/sinmaquina/grafbasi2dymedio/saved.png
+compipracticas_codigo1/practica2/java	OMITIDO	carpeta vacia
+compipracticas_codigo1/practica2/notascompila.docx	COPIADO	1_documentos/notas/notascompila.docx
+compipracticas_codigo1/practica2/sqlcodi.c	COPIADO	5_practicas/practica2_java_grafico/sqlcodi.c
+compipracticas_codigo1/practica3/Untitled Folder	OMITIDO	carpeta vacia
+compipracticas_codigo1/practica3/aliceCartman/AccionInt.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/AccionInt.java
+compipracticas_codigo1/practica3/aliceCartman/Cartman.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Cartman.java
+compipracticas_codigo1/practica3/aliceCartman/Gira.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Gira.java
+compipracticas_codigo1/practica3/aliceCartman/MS3DLoader.jar	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/MS3DLoader.jar
+compipracticas_codigo1/practica3/aliceCartman/Maquina.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Maquina.java
+compipracticas_codigo1/practica3/aliceCartman/Modelo.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Modelo.java
+compipracticas_codigo1/practica3/aliceCartman/Models/Big Gay Al1.ms3d	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Big Gay Al1.ms3d
+compipracticas_codigo1/practica3/aliceCartman/Models/Big Gay Al2.ms3d	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Big Gay Al2.ms3d
+compipracticas_codigo1/practica3/aliceCartman/Models/CASTLE.COB	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/CASTLE.COB
+compipracticas_codigo1/practica3/aliceCartman/Models/COOLROBO.3DS	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/COOLROBO.3DS
+compipracticas_codigo1/practica3/aliceCartman/Models/Cartman1.ms3d	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Cartman1.ms3d
+compipracticas_codigo1/practica3/aliceCartman/Models/Cartman2.ms3d	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Cartman2.ms3d
+compipracticas_codigo1/practica3/aliceCartman/Models/Chef1.ms3d	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Chef1.ms3d
+compipracticas_codigo1/practica3/aliceCartman/Models/Chef2.ms3d	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Chef2.ms3d
+compipracticas_codigo1/practica3/aliceCartman/Models/Kenny1.ms3d	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Kenny1.ms3d
+compipracticas_codigo1/practica3/aliceCartman/Models/Kenny2.ms3d	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Kenny2.ms3d
+compipracticas_codigo1/practica3/aliceCartman/Models/Kyle1.ms3d	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Kyle1.ms3d
+compipracticas_codigo1/practica3/aliceCartman/Models/Kyle2.ms3d	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Kyle2.ms3d
+compipracticas_codigo1/practica3/aliceCartman/Models/Rueda.wrl	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Rueda.wrl
+compipracticas_codigo1/practica3/aliceCartman/Models/Stan1.ms3d	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Stan1.ms3d
+compipracticas_codigo1/practica3/aliceCartman/Models/Stan2.ms3d	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/Stan2.ms3d
+compipracticas_codigo1/practica3/aliceCartman/Models/cylinderBottom.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/cylinderBottom.jpg
+compipracticas_codigo1/practica3/aliceCartman/Models/cylinderSide.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/cylinderSide.png
+compipracticas_codigo1/practica3/aliceCartman/Models/cylinderTop.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/cylinderTop.jpg
+compipracticas_codigo1/practica3/aliceCartman/Models/hand1.obj	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/hand1.obj
+compipracticas_codigo1/practica3/aliceCartman/Models/horse.obj	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/horse.obj
+compipracticas_codigo1/practica3/aliceCartman/Models/house01_front.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/house01_front.png
+compipracticas_codigo1/practica3/aliceCartman/Models/house01_side.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/house01_side.png
+compipracticas_codigo1/practica3/aliceCartman/Models/house01_top.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/house01_top.png
+compipracticas_codigo1/practica3/aliceCartman/Models/house02_front.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/house02_front.png
+compipracticas_codigo1/practica3/aliceCartman/Models/house02_side.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/house02_side.png
+compipracticas_codigo1/practica3/aliceCartman/Models/house02_top.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/house02_top.png
+compipracticas_codigo1/practica3/aliceCartman/Models/house03_front.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/house03_front.png
+compipracticas_codigo1/practica3/aliceCartman/Models/house03_side.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/house03_side.png
+compipracticas_codigo1/practica3/aliceCartman/Models/house03_top.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/house03_top.png
+compipracticas_codigo1/practica3/aliceCartman/Models/house04_front.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/house04_front.png
+compipracticas_codigo1/practica3/aliceCartman/Models/house04_side.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/house04_side.png
+compipracticas_codigo1/practica3/aliceCartman/Models/house04_top.png	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/house04_top.png
+compipracticas_codigo1/practica3/aliceCartman/Models/koskin.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/koskin.jpg
+compipracticas_codigo1/practica3/aliceCartman/Models/koskin2.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/koskin2.jpg
+compipracticas_codigo1/practica3/aliceCartman/Models/loadingscreen.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/loadingscreen.jpg
+compipracticas_codigo1/practica3/aliceCartman/Models/ratonsol.wrl	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/ratonsol.wrl
+compipracticas_codigo1/practica3/aliceCartman/Models/ratonsolCoords.txt	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/ratonsolCoords.txt
+compipracticas_codigo1/practica3/aliceCartman/Models/skjorta.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/skjorta.jpg
+compipracticas_codigo1/practica3/aliceCartman/Models/skjorta2.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Models/skjorta2.jpg
+compipracticas_codigo1/practica3/aliceCartman/Paleta.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Paleta.java
+compipracticas_codigo1/practica3/aliceCartman/Parser.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Parser.java
+compipracticas_codigo1/practica3/aliceCartman/ParserTokens.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/ParserTokens.java
+compipracticas_codigo1/practica3/aliceCartman/ParserVal.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/ParserVal.java
+compipracticas_codigo1/practica3/aliceCartman/Posi.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Posi.java
+compipracticas_codigo1/practica3/aliceCartman/Simbolo.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Simbolo.java
+compipracticas_codigo1/practica3/aliceCartman/Tabla.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Tabla.java
+compipracticas_codigo1/practica3/aliceCartman/Texturas.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/Texturas.java
+compipracticas_codigo1/practica3/aliceCartman/almohada.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/almohada.jpg
+compipracticas_codigo1/practica3/aliceCartman/canal.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/canal.jpg
+compipracticas_codigo1/practica3/aliceCartman/j3dcore.jar	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/j3dcore.jar
+compipracticas_codigo1/practica3/aliceCartman/j3dutils.jar	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/j3dutils.jar
+compipracticas_codigo1/practica3/aliceCartman/karel.y	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/karel.y
+compipracticas_codigo1/practica3/aliceCartman/lesson08b.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/lesson08b.java
+compipracticas_codigo1/practica3/aliceCartman/marco1.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/marco1.jpg
+compipracticas_codigo1/practica3/aliceCartman/marco2.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/marco2.jpg
+compipracticas_codigo1/practica3/aliceCartman/marco3.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/marco3.jpg
+compipracticas_codigo1/practica3/aliceCartman/marco4.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/marco4.jpg
+compipracticas_codigo1/practica3/aliceCartman/marco5.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/marco5.jpg
+compipracticas_codigo1/practica3/aliceCartman/marco6.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/marco6.jpg
+compipracticas_codigo1/practica3/aliceCartman/muebles.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/muebles.jpg
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/.nbattrs	OMITIDO	archivo generado/regenerable (.nbattrs)
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Cama.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Cama.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Cama.java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Mesa.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Mesa.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Mesa.java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Pared.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Pared.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Pared.java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Pieza.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Pieza.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Pieza.java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Puerta.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Puerta.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Puerta.java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/SeActivaAlAcercarse.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/SeActivaAlAcercarse.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/objetos3D/SeActivaAlAcercarse.java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Suelo.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Suelo.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Suelo.java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/TV.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/TV.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/objetos3D/TV.java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Techo.class	OMITIDO	compilado Java (.class); existe el .java
+compipracticas_codigo1/practica3/aliceCartman/objetos3D/Techo.java	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/objetos3D/Techo.java
+compipracticas_codigo1/practica3/aliceCartman/pared1.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/pared1.jpg
+compipracticas_codigo1/practica3/aliceCartman/pared2.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/pared2.jpg
+compipracticas_codigo1/practica3/aliceCartman/pared3.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/pared3.jpg
+compipracticas_codigo1/practica3/aliceCartman/pared4.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/pared4.jpg
+compipracticas_codigo1/practica3/aliceCartman/pared5.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/pared5.jpg
+compipracticas_codigo1/practica3/aliceCartman/pared6.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/pared6.jpg
+compipracticas_codigo1/practica3/aliceCartman/portfolio.jar	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/portfolio.jar
+compipracticas_codigo1/practica3/aliceCartman/puerta1.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/puerta1.jpg
+compipracticas_codigo1/practica3/aliceCartman/sabana.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/sabana.jpg
+compipracticas_codigo1/practica3/aliceCartman/suelo1.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/suelo1.jpg
+compipracticas_codigo1/practica3/aliceCartman/techo1.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/techo1.jpg
+compipracticas_codigo1/practica3/aliceCartman/techo2.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/techo2.jpg
+compipracticas_codigo1/practica3/aliceCartman/techo3.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/techo3.jpg
+compipracticas_codigo1/practica3/aliceCartman/techo4.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/techo4.jpg
+compipracticas_codigo1/practica3/aliceCartman/techo5.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/techo5.jpg
+compipracticas_codigo1/practica3/aliceCartman/techo6.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/techo6.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/almohada.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/almohada.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/canal.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/canal.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/marco1.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/marco1.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/marco2.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/marco2.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/marco3.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/marco3.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/marco4.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/marco4.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/marco5.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/marco5.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/marco6.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/marco6.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/muebles.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/muebles.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/pared1.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/pared1.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/pared2.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/pared2.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/pared3.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/pared3.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/pared4.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/pared4.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/pared5.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/pared5.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/pared6.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/pared6.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/puerta1.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/puerta1.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/sabana.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/sabana.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/suelo1.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/suelo1.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/techo1.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/techo1.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/techo2.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/techo2.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/techo3.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/techo3.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/techo4.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/techo4.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/techo5.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/techo5.jpg
+compipracticas_codigo1/practica3/aliceCartman/texturas/techo6.jpg	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/texturas/techo6.jpg
+compipracticas_codigo1/practica3/aliceCartman/vecmath.jar	COPIADO	5_practicas/practica2_java_grafico/aliceCartman/vecmath.jar
+compipracticas_codigo1/practica3/derivap1/deriva.c	COPIADO	5_practicas/practica3_tabla_simbolos/derivap1/deriva.c
+compipracticas_codigo1/practica3/derivap1/deriva.h	COPIADO	5_practicas/practica3_tabla_simbolos/derivap1/deriva.h
+compipracticas_codigo1/practica3/emiteredu/compi.asm	DUPLICADO	igual a 5_practicas/practica2_java_grafico/emiteredu/compi.asm
+compipracticas_codigo1/practica3/emiteredu/emite.h	DUPLICADO	igual a 5_practicas/practica2_java_grafico/emiteredu/emite.h
+compipracticas_codigo1/practica3/emiteredu/emite1.y	DUPLICADO	igual a 5_practicas/practica2_java_grafico/emiteredu/emite1.y
+compipracticas_codigo1/practica3/expregul/regexp.h	DUPLICADO	igual a 5_practicas/practica2_java_grafico/expregul/regexp.h
+compipracticas_codigo1/practica3/expregul/simple.y	DUPLICADO	igual a 5_practicas/practica2_java_grafico/expregul/simpley.txt
+compipracticas_codigo1/practica3/guia1Compi2016.doc	COPIADO	1_documentos/guias/guia1Compi2016.doc
+compipracticas_codigo1/practica3/guia1Compi2016.dot	COPIADO	1_documentos/guias/guia1Compi2016.dot
+compipracticas_codigo1/practica3/guia1Compi2016sep.docx	COPIADO	1_documentos/guias/guia1Compi2016sep.docx
+compipracticas_codigo1/practica3/guia1Compi2017ene.docx	DUPLICADO	igual a 1_documentos/guias/guia1Compi2016sep.docx
+compipracticas_codigo1/practica3/guia1Compi2017sep.docx	DUPLICADO	igual a 1_documentos/guias/guia1Compi2017sep.docx
+compipracticas_codigo1/practica3/hoc2/Makefile	DUPLICADO	igual a 2_hoc_c/hoc2/Makefile
+compipracticas_codigo1/practica3/hoc2/calc	OMITIDO	binario compilado (calc); se regenera con make
+compipracticas_codigo1/practica3/hoc2/hoc2.y	COPIADO	2_hoc_c/hoc2/old/practica3_2021/hoc2.y
+compipracticas_codigo1/practica3/hoc2/hoc22.txt	DUPLICADO	igual a 2_hoc_c/hoc2/hoc22.txt
+compipracticas_codigo1/practica3/hoc2/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+compipracticas_codigo1/practica3/hoc2/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+compipracticas_codigo1/practica3/hoc3/Makefile	DUPLICADO	igual a 2_hoc_c/hoc3/Makefile
+compipracticas_codigo1/practica3/hoc3/hoc.h	DUPLICADO	igual a 2_hoc_c/hoc3/hoc.h
+compipracticas_codigo1/practica3/hoc3/hoc3.y	DUPLICADO	igual a 2_hoc_c/hoc3/hoc3.y
+compipracticas_codigo1/practica3/hoc3/init.c	DUPLICADO	igual a 2_hoc_c/hoc3/init.c
+compipracticas_codigo1/practica3/hoc3/math.c	DUPLICADO	igual a 2_hoc_c/hoc3/math.c
+compipracticas_codigo1/practica3/hoc3/symbol.c	DUPLICADO	igual a 2_hoc_c/hoc3/symbol.c
+compipracticas_codigo1/practica3/hoc3/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+compipracticas_codigo1/practica3/hoc3/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+compipracticas_codigo1/practica3/hoc3gen/hoc.h	COPIADO	2_hoc_c/hoc3/old/hoc3gen_2016/hoc.h
+compipracticas_codigo1/practica3/hoc3gen/hoc3.y	COPIADO	2_hoc_c/hoc3/old/hoc3gen_2016/hoc3.y
+compipracticas_codigo1/practica3/hoc3gen/init.c	COPIADO	2_hoc_c/hoc3/old/hoc3gen_2016/init.c
+compipracticas_codigo1/practica3/hoc3gen/math.c	COPIADO	2_hoc_c/hoc3/old/hoc3gen_2016/math.c
+compipracticas_codigo1/practica3/hoc3gen/symbol.c	COPIADO	2_hoc_c/hoc3/old/hoc3gen_2016/symbol.c
+compipracticas_codigo1/practica3/hoc4/Makefile	COPIADO	2_hoc_c/hoc4/old/practica3_2020/Makefile
+compipracticas_codigo1/practica3/hoc4/calc	OMITIDO	binario compilado (calc); se regenera con make
+compipracticas_codigo1/practica3/hoc4/code.c	COPIADO	2_hoc_c/hoc4/old/practica3_2020/code.c
+compipracticas_codigo1/practica3/hoc4/hoc.h	COPIADO	2_hoc_c/hoc4/old/practica3_2020/hoc.h
+compipracticas_codigo1/practica3/hoc4/hoc4.y	COPIADO	2_hoc_c/hoc4/old/practica3_2020/hoc4.y
+compipracticas_codigo1/practica3/hoc4/init.c	COPIADO	2_hoc_c/hoc4/old/practica3_2020/init.c
+compipracticas_codigo1/practica3/hoc4/math.c	DUPLICADO	igual a 2_hoc_c/hoc4/math.c
+compipracticas_codigo1/practica3/hoc4/symbol.c	DUPLICADO	igual a 2_hoc_c/hoc4/symbol.c
+compipracticas_codigo1/practica3/hoc4/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+compipracticas_codigo1/practica3/hoc4/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc5javclase/Maquina.java	COPIADO	3_hoc_java/hoc5javclase/old/tokens_2016/Maquina.java
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc5javclase/Simbolo.java	DUPLICADO	igual a 3_hoc_java/hoc5javclase/Simbolo.java
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc5javclase/Tabla.java	DUPLICADO	igual a 3_hoc_java/hoc5javclase/Tabla.java
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc5javclase/ciclo.txt	COPIADO	3_hoc_java/hoc5javclase/old/tokens_2016/ciclo.txt
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc5javclase/hoc5j.txt	DUPLICADO	igual a 3_hoc_java/hoc5javclase/hoc5j.txt
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc5javclase/hoc5j.y	DUPLICADO	igual a 3_hoc_java/hoc5javclase/hoc5j.txt
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc6javclase/Maquina.java	COPIADO	3_hoc_java/hoc6javclase/old/tokens_2016/Maquina.java
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc6javclase/Marco.java	DUPLICADO	igual a 3_hoc_java/hoc6javclase/Marco.java
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc6javclase/Simbolo.java	DUPLICADO	igual a 3_hoc_java/hoc6javclase/Simbolo.java
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc6javclase/Tabla.java	DUPLICADO	igual a 3_hoc_java/hoc6javclase/Tabla.java
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc6javclase/ciclo.txt	COPIADO	3_hoc_java/hoc6javclase/old/tokens_2016/ciclo.txt
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc6javclase/hoc6j.txt	DUPLICADO	igual a 3_hoc_java/hoc6javclase/hoc6j.txt
+compipracticas_codigo1/practica3/hocjavatokensicompletos/hoc6javclase/hoc6j.y	COPIADO	3_hoc_java/hoc6javclase/old/tokens_2016/hoc6j.y
+compipracticas_codigo1/practica3/java/calc/calc.y	COPIADO	5_practicas/practica3_tabla_simbolos/java/calc/calc.y
+compipracticas_codigo1/practica3/java/hoc4clase/Maquina.java	COPIADO	3_hoc_java/hoc4java/old/practica3_2016/Maquina.java
+compipracticas_codigo1/practica3/java/hoc4clase/Simbolo.java	COPIADO	3_hoc_java/hoc4java/old/practica3_2016/Simbolo.java
+compipracticas_codigo1/practica3/java/hoc4clase/Tabla.java	COPIADO	3_hoc_java/hoc4java/old/practica3_2016/Tabla.java
+compipracticas_codigo1/practica3/java/hoc4clase/hoc4.txt	DUPLICADO	igual a 3_hoc_java/hoc4java/hoc4.txt
+compipracticas_codigo1/practica3/java/hoc4clase/hoc4.y	COPIADO	3_hoc_java/hoc4java/old/practica3_2016/hoc4.y
+compipracticas_codigo1/practica3/notascompila.docx	DUPLICADO	igual a 1_documentos/notas/notascompila.docx
+guia1Compi2026oct.docx	COPIADO	1_documentos/guias/guia1Compi2026oct.docx
+planb/hoc2/Makefile	COPIADO	2_hoc_c/hoc2/Makefile
+planb/hoc2/a.out	OMITIDO	archivo generado/regenerable (a.out)
+planb/hoc2/calc	OMITIDO	binario compilado (calc); se regenera con make
+planb/hoc2/compi	OMITIDO	nota de compilacion suelta (ver herramientas/yacc/notas_compilacion.txt)
+planb/hoc2/hoc2.y	COPIADO	2_hoc_c/hoc2/hoc2.y
+planb/hoc2/hoc22.txt	COPIADO	2_hoc_c/hoc2/hoc22.txt
+planb/hoc2/oyacc	OMITIDO	archivo generado/regenerable (oyacc)
+planb/hoc2/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+planb/hoc2/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+planb/hoc3/Makefile	COPIADO	2_hoc_c/hoc3/Makefile
+planb/hoc3/compi	OMITIDO	nota de compilacion suelta (ver herramientas/yacc/notas_compilacion.txt)
+planb/hoc3/hoc	OMITIDO	binario compilado (hoc); se regenera con make
+planb/hoc3/hoc.h	COPIADO	2_hoc_c/hoc3/hoc.h
+planb/hoc3/hoc3.y	COPIADO	2_hoc_c/hoc3/hoc3.y
+planb/hoc3/init.c	COPIADO	2_hoc_c/hoc3/init.c
+planb/hoc3/math.c	COPIADO	2_hoc_c/hoc3/math.c
+planb/hoc3/oyacc	OMITIDO	archivo generado/regenerable (oyacc)
+planb/hoc3/symbol.c	COPIADO	2_hoc_c/hoc3/symbol.c
+planb/hoc3/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+planb/hoc3/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+planb/hoc4/code.c	COPIADO	2_hoc_c/hoc4/code.c
+planb/hoc4/compi	OMITIDO	nota de compilacion suelta (ver herramientas/yacc/notas_compilacion.txt)
+planb/hoc4/hoc	OMITIDO	binario compilado (hoc); se regenera con make
+planb/hoc4/hoc.h	COPIADO	2_hoc_c/hoc4/hoc.h
+planb/hoc4/hoc4.y	COPIADO	2_hoc_c/hoc4/hoc4.y
+planb/hoc4/init.c	COPIADO	2_hoc_c/hoc4/init.c
+planb/hoc4/math.c	COPIADO	2_hoc_c/hoc4/math.c
+planb/hoc4/oyacc	OMITIDO	archivo generado/regenerable (oyacc)
+planb/hoc4/symbol.c	COPIADO	2_hoc_c/hoc4/symbol.c
+planb/hoc4/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+planb/hoc4/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+planb/hoc5/Makefile	COPIADO	2_hoc_c/hoc5/Makefile
+planb/hoc5/code.c	COPIADO	2_hoc_c/hoc5/code.c
+planb/hoc5/compi	OMITIDO	nota de compilacion suelta (ver herramientas/yacc/notas_compilacion.txt)
+planb/hoc5/ejemplo.txt	COPIADO	2_hoc_c/hoc5/ejemplo.txt
+planb/hoc5/funcihoc6.txt	COPIADO	2_hoc_c/hoc5/funcihoc6.txt
+planb/hoc5/hoc	OMITIDO	binario compilado (hoc); se regenera con make
+planb/hoc5/hoc.h	COPIADO	2_hoc_c/hoc5/hoc.h
+planb/hoc5/hoc5.y	COPIADO	2_hoc_c/hoc5/hoc5.y
+planb/hoc5/init.c	COPIADO	2_hoc_c/hoc5/init.c
+planb/hoc5/mapmemifwhile.txt	COPIADO	2_hoc_c/hoc5/mapmemifwhile.txt
+planb/hoc5/math.c	COPIADO	2_hoc_c/hoc5/math.c
+planb/hoc5/old/hocy.txt	COPIADO	2_hoc_c/hoc5/old/hocy.txt
+planb/hoc5/oyacc	OMITIDO	archivo generado/regenerable (oyacc)
+planb/hoc5/symbol.c	COPIADO	2_hoc_c/hoc5/symbol.c
+planb/hoc5/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+planb/hoc5/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+planb/hoc6/Makefile	COPIADO	2_hoc_c/hoc6/Makefile
+planb/hoc6/code.c	COPIADO	2_hoc_c/hoc6/code.c
+planb/hoc6/compi	OMITIDO	nota de compilacion suelta (ver herramientas/yacc/notas_compilacion.txt)
+planb/hoc6/hoc	OMITIDO	binario compilado (hoc); se regenera con make
+planb/hoc6/hoc.h	COPIADO	2_hoc_c/hoc6/hoc.h
+planb/hoc6/hoc6.y	COPIADO	2_hoc_c/hoc6/hoc6.y
+planb/hoc6/init.c	COPIADO	2_hoc_c/hoc6/init.c
+planb/hoc6/math.c	COPIADO	2_hoc_c/hoc6/math.c
+planb/hoc6/old/Makefile2	COPIADO	2_hoc_c/hoc6/old/Makefile2
+planb/hoc6/old/codedebug.c	COPIADO	2_hoc_c/hoc6/old/codedebug.c
+planb/hoc6/old/ejemplotes.txt	COPIADO	2_hoc_c/hoc6/old/ejemplotes.txt
+planb/hoc6/old/makefile.txt	COPIADO	2_hoc_c/hoc6/old/makefile.txt
+planb/hoc6/old/makefile1	COPIADO	2_hoc_c/hoc6/old/makefile1
+planb/hoc6/old/p2.hoc1	COPIADO	2_hoc_c/hoc6/old/p2.hoc1
+planb/hoc6/oyacc	OMITIDO	archivo generado/regenerable (oyacc)
+planb/hoc6/p1.hoc	COPIADO	2_hoc_c/hoc6/p1.hoc
+planb/hoc6/p2.hoc	COPIADO	2_hoc_c/hoc6/p2.hoc
+planb/hoc6/symbol.c	COPIADO	2_hoc_c/hoc6/symbol.c
+planb/hoc6/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+planb/hoc6/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+planb/hoc6/yacc.acts	OMITIDO	archivo generado/regenerable (yacc.acts)
+planb/hoc6/yacc.tmp	OMITIDO	archivo generado/regenerable (yacc.tmp)
+planb/lenguajeC/arbol/Makefile	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/arbol/Makefile
+planb/lenguajeC/arbol/arbol	OMITIDO	binario compilado (arbol); se regenera con make
+planb/lenguajeC/arbol/arboles.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/arbol/arboles.h
+planb/lenguajeC/arbol/arboles.y	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/arbol/arboles.y
+planb/lenguajeC/arbol/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+planb/lenguajeC/arbol/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+planb/lenguajeC/complejo/Makefile	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/complejo/Makefile
+planb/lenguajeC/complejo/complejo_calc.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/complejo/complejo_calc.c
+planb/lenguajeC/complejo/complejo_calc.l	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/complejo/complejo_calc.l
+planb/lenguajeC/complejo/vjo/complejo_calc.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/complejo/old/complejo_calc.c
+planb/lenguajeC/complejo/vjo/complejo_calc.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/complejo/old/complejo_calc.h
+planb/lenguajeC/conjunto/Makefile	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/conjunto/Makefile
+planb/lenguajeC/conjunto/conjunto_calc.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/conjunto/conjunto_calc.c
+planb/lenguajeC/conjunto/conjunto_calc.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/conjunto/conjunto_calc.h
+planb/lenguajeC/deriva/deriva.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/deriva/deriva.c
+planb/lenguajeC/emite/Makefile	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/emite/Makefile
+planb/lenguajeC/emite/compi.asm	OMITIDO	archivo vacio
+planb/lenguajeC/emite/compiasm.txt	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/emite/compiasm.txt
+planb/lenguajeC/emite/emite.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/emite/emite.h
+planb/lenguajeC/emite/emite.y	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/emite/emite.y
+planb/lenguajeC/emite/emitey.txt	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/emite/emite.y
+planb/lenguajeC/emite1/Makefile	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/emite1/Makefile
+planb/lenguajeC/emite1/ejem.txt	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/emite1/ejem.txt
+planb/lenguajeC/emite1/emite.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/emite1/emite.h
+planb/lenguajeC/emite1/emite.y	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/emite1/emite.y
+planb/lenguajeC/grande/Makefile	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/Makefile
+planb/lenguajeC/grande/big	OMITIDO	binario compilado (big); se regenera con make
+planb/lenguajeC/grande/big_calc.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/big_calc.c
+planb/lenguajeC/grande/big_calc.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/big_calc.h
+planb/lenguajeC/grande/big_calc.y	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/big_calc.y
+planb/lenguajeC/grande/big_calc0.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/numeros_grandes/v1_arreglos_base10000/old/big_calc0.c
+planb/lenguajeC/grande/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+planb/lenguajeC/grande/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+planb/lenguajeC/hoc1/Makefile	DUPLICADO	igual a 2_hoc_c/hoc1/Makefile
+planb/lenguajeC/hoc1/a.out	OMITIDO	archivo generado/regenerable (a.out)
+planb/lenguajeC/hoc1/ayacc	OMITIDO	archivo generado/regenerable (ayacc)
+planb/lenguajeC/hoc1/calc	OMITIDO	binario compilado (calc); se regenera con make
+planb/lenguajeC/hoc1/compi	OMITIDO	nota de compilacion suelta (ver herramientas/yacc/notas_compilacion.txt)
+planb/lenguajeC/hoc1/hoc1.y	COPIADO	2_hoc_c/hoc1/old/planb/hoc1.y
+planb/lenguajeC/hoc1/oyacc	OMITIDO	archivo generado/regenerable (oyacc)
+planb/lenguajeC/hoc1/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+planb/lenguajeC/hoc1/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+planb/lenguajeC/hoc1/yacc.acts	OMITIDO	archivo generado/regenerable (yacc.acts)
+planb/lenguajeC/hoc1/yacc.tmp	OMITIDO	archivo generado/regenerable (yacc.tmp)
+planb/lenguajeC/lenguajenatu/conversa.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/lenguajenatu/conversa.c
+planb/lenguajeC/matriz/Makefile	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/matriz/Makefile
+planb/lenguajeC/matriz/matriz_calc.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/matriz/matriz_calc.c
+planb/lenguajeC/matriz/matriz_calc.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/matriz/matriz_calc.h
+planb/lenguajeC/perros/a.out	OMITIDO	archivo generado/regenerable (a.out)
+planb/lenguajeC/perros/listaperros.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/perros/listaperros.c
+planb/lenguajeC/polinoArray/Makefile	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinoArray/Makefile
+planb/lenguajeC/polinoArray/lex.yy.c	OMITIDO	archivo generado/regenerable (lex.yy.c)
+planb/lenguajeC/polinoArray/poli	OMITIDO	binario compilado (poli); se regenera con make
+planb/lenguajeC/polinoArray/polinomio_calc.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinoArray/polinomio_calc.c
+planb/lenguajeC/polinoArray/polinomio_calc.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinoArray/polinomio_calc.h
+planb/lenguajeC/polinoArray/polinomio_calc.l	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinoArray/polinomio_calc.l
+planb/lenguajeC/polinoArray/polinomio_calc.y	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinoArray/polinomio_calc.y
+planb/lenguajeC/polinoArray/polinomio_calc00.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinoArray/polinomio_calc00.c
+planb/lenguajeC/polinoArray/polyno.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinoArray/polyno.c
+planb/lenguajeC/polinoArray/polyno.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinoArray/polyno.h
+planb/lenguajeC/polinoArray/y.tab.c	OMITIDO	archivo generado/regenerable (y.tab.c)
+planb/lenguajeC/polinoArray/y.tab.h	OMITIDO	archivo generado/regenerable (y.tab.h)
+planb/lenguajeC/polinomio/Makefile	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinomio/Makefile
+planb/lenguajeC/polinomio/ejemplo.txt	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinomio/ejemplo.txt
+planb/lenguajeC/polinomio/polinomio_calc.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinomio/polinomio_calc.c
+planb/lenguajeC/polinomio/polinomio_calc.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinomio/polinomio_calc.h
+planb/lenguajeC/polinomio/polinomio_calc.l	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinomio/polinomio_calc.l
+planb/lenguajeC/polinomio/polinomio_calc.y	COPIADO	5_practicas/practica1_yacc_basico/c/polinomio/old/planb_2020/polinomio_calc.y
+planb/lenguajeC/polinomio/vjo/polinomio0_cal.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinomio/old/polinomio0_cal.c
+planb/lenguajeC/polinomio/vjo/polinomio_cal.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/polinomio/old/polinomio_cal.c
+planb/lenguajeC/quilt/Makefile	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/quilt/Makefile
+planb/lenguajeC/quilt/quilt.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/quilt/quilt.c
+planb/lenguajeC/quilt/quilt.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/quilt/quilt.h
+planb/lenguajeC/racional/Makefile	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/racional/Makefile
+planb/lenguajeC/racional/racional_calc.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/racional/racional_calc.c
+planb/lenguajeC/racional/racional_calc.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/racional/racional_calc.h
+planb/lenguajeC/racional/racional_calc.l	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/racional/racional_calc.l
+planb/lenguajeC/vector/Makefile	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/vector/Makefile
+planb/lenguajeC/vector/vector_calc.c	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/vector/vector_calc.c
+planb/lenguajeC/vector/vector_calc.h	DUPLICADO	igual a 5_practicas/practica1_yacc_basico/c/vector/vector_calc.h
+planb/yacc/Makefile	OMITIDO	era un Makefile de hoc6 por error; reemplazado por uno nuevo
+planb/yacc/README.md	COPIADO	herramientas/yacc/README.md
+planb/yacc/closure.c	COPIADO	herramientas/yacc/closure.c
+planb/yacc/compi	COPIADO	herramientas/yacc/notas_compilacion.txt
+planb/yacc/config.h	COPIADO	herramientas/yacc/config.h
+planb/yacc/configure	COPIADO	herramientas/yacc/configure
+planb/yacc/defs.h	COPIADO	herramientas/yacc/defs.h
+planb/yacc/error.c	COPIADO	herramientas/yacc/error.c
+planb/yacc/lalr.c	COPIADO	herramientas/yacc/lalr.c
+planb/yacc/lr0.c	COPIADO	herramientas/yacc/lr0.c
+planb/yacc/main.c	COPIADO	herramientas/yacc/main.c
+planb/yacc/mkpar.c	COPIADO	herramientas/yacc/mkpar.c
+planb/yacc/output.c	COPIADO	herramientas/yacc/output.c
+planb/yacc/portable.c	COPIADO	herramientas/yacc/portable.c
+planb/yacc/portable.h	COPIADO	herramientas/yacc/portable.h
+planb/yacc/reader.c	COPIADO	herramientas/yacc/reader.c
+planb/yacc/skeleton.c	COPIADO	herramientas/yacc/skeleton.c
+planb/yacc/symtab.c	COPIADO	herramientas/yacc/symtab.c
+planb/yacc/verbose.c	COPIADO	herramientas/yacc/verbose.c
+planb/yacc/warshall.c	COPIADO	herramientas/yacc/warshall.c
+planb/yacc/yacc.1	COPIADO	herramientas/yacc/yacc.1
+planb/yacc/yacc.acts	OMITIDO	archivo generado/regenerable (yacc.acts)
+planb/yacc/yacc.tmp	OMITIDO	archivo generado/regenerable (yacc.tmp)
+planb/yacc/yyfix.1	COPIADO	herramientas/yacc/yyfix.1
+planb/yacc/yyfix.sh	COPIADO	herramientas/yacc/yyfix.sh

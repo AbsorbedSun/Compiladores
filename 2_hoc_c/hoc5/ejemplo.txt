@@ -1,0 +1,6 @@
+yyy= 100
+while ( yyy < 1000){
+   print yyy
+   yyy = yyy + 10
+}
+

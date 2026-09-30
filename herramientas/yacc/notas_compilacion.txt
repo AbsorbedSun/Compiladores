@@ -1,0 +1,35 @@
+
+cc -w -D_GNU_SOURCE -D__unused=   -c -o closure.o closure.c
+cc -w -D_GNU_SOURCE -D__unused=   -c -o error.o error.c
+cc -w -D_GNU_SOURCE -D__unused=   -c -o lalr.o lalr.c
+cc -w -D_GNU_SOURCE -D__unused=   -c -o lr0.o lr0.c
+cc -w -D_GNU_SOURCE -D__unused=   -c -o main.o main.c
+cc -w -D_GNU_SOURCE -D__unused=   -c -o mkpar.o mkpar.c
+cc -w -D_GNU_SOURCE -D__unused=   -c -o output.o output.c
+cc -w -D_GNU_SOURCE -D__unused=   -c -o reader.o reader.c
+cc -w -D_GNU_SOURCE -D__unused=   -c -o skeleton.o skeleton.c
+cc -w -D_GNU_SOURCE -D__unused=   -c -o symtab.o symtab.c
+cc -w -D_GNU_SOURCE -D__unused=   -c -o verbose.o verbose.c
+cc -w -D_GNU_SOURCE -D__unused=   -c -o warshall.o warshall.c
+cc -w -D_GNU_SOURCE -D__unused=   -c -o portable.o portable.c
+cc  -o oyacc closure.o error.o lalr.o lr0.o main.o mkpar.o output.o reader.o skeleton.o symtab.o verbose.o warshall.o portable.o
+
+rm oyacc
+rm *.o
+-------------------------------------------------------
+
+./oyacc -d hoc6.y
+gcc -o hoc y.tab.c symbol.c code.c init.c math.c -lm
+
+rm -f hoc *.tab.* *.o
+
+
+
+
+
+
+
+
+
+
+	

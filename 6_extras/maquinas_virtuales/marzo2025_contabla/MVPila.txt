@@ -1,0 +1,127 @@
+
+Codificar MVP (Programable en leng maq )
+
+gral postfijo
+
+RAM
+pila MVP
+
+Mecanismo de llamada a funcion
+  secuencia de llamada
+             guardar dir. de retorno
+             apun al último argumento  
+             mete el marco de funcion en la pila de llamadas
+             ejec. cuerpo func.
+                Salta a la primera instruccion del procedimiento llamado
+  secuencia de retorno
+             saca el marco de funcion de la pila de llamadas
+             Salta a la dirección de retorno
+  marco de funcion
+      variables locales
+      dirección de retorno
+      parametros reales
+  pila de llamadas a funcion
+
+Programa  = codigo  +  est. datos
+            proced.      vars. 
+
+4 construc leng prog
+-secuencia ( pc = pc + 1 )
+-if  ( pc salta a 3 ptos )
+-ciclos (while) (pc salta al inic y desp cuerpo)
+-funcion ( recursividad en el codigo ) [pc salta a 1er intruccion y dir retorno]
+
+cond (expr bool) or, &&, not, lt, gt eq  
+
+           declaracion            
+funciones  definicion
+           llamada
+
+conj instruc (bytecodes)
+
+
+
+
+
+              exp1
+              exp2
+              exp3
+              ...
+              expN
+              call
+         pc-> dir. 1er intruccion    en  pc
+              nargs                  en  pc+1
+
+    Mapa de memoria de una llamada a procedimiento
+    
+    
+    
+    pila de la maquina virtual (funciones push() y pop())
+
+                  <-stackp
+             argN
+             ...
+             arg3
+             arg2
+             arg1
+
+    pila de llamadas a funcion (  (push) y  (pop) )
+
+             argn
+             nargs
+             retpc
+             sp
+             
+requisitos de lenguaje C
+   macros, macros con parametros
+       coercion (casting)
+       arreglos, apuntadores, relacion entre arreglos y apuntadores,
+       valor que proporciona el nombre de un arreglo
+       aritmetica de apuntadores
+       apuntador a apuntador
+       apuntadores a funcion, arreglos de apuntadores a funcion
+       valor que proporciona el nombre de una funcion
+       estructuras y uniones, arreglos de estructuras y uniones
+       asignacion dinamica de memoria
+       recursividad en el codigo y los datos
+       Declaración de funcion (en lenguajeC prototipo)
+          TipoRetorno nombreFuncion(listaParamFormales);
+       Definición de funcion
+          parametros formales
+          variables locales
+              en lenguajeC las variables locales (no estaticas) se crean
+              cuando se ejecuta la funcion y se destruyen cuando se termina
+              la ejecucion de la funcion
+       Definición de funcion en lenguajeC
+       
+          TipoRetorno nombreFuncion(listaParamFormales){//inic. cuerpo
+              [variables locales]
+              [return [expr]];//muerte provocada
+          }//fin cuerpo muerte natural
+
+     
+       listaParamFormales
+          Tipo1 nombParam1, Tipo2 nombParam2, ..., TipoN nombParamN
+       Llamada a funcion
+          parametros reales
+       Llamada a funcion en lenguajeC
+          nombreFuncion(listaParamReales);
+       listaParamReales
+          expr1, expr2, expr3, ..., exprN,
+   
+requisitos de Estructura de Datos   
+       Pila (LIFO)
+       evaluacion de expresiones en postfijo usando una pila
+       
+   
+
+
+
+
+
+
+
+
+
+
+

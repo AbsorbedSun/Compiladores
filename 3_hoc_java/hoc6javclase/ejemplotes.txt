@@ -1,0 +1,18 @@
+proc f ( ) { 
+   print $1 + $2  
+   print $1 - $2 
+} ; f ( 22 , 44 ) 
+proc gg ( ) { 
+print 5 + 9 * 2 
+} ;  gg ( ) 
+func fac ( ) { 
+   if ( $1 < 1 ) return 1 else return $1 * fac ( $1 - 1 ) 
+} ; fac ( 5 )
+func pot ( ) { 
+if ( $2 == 0 ) return 1 else return $1 * pot ( $1 , $2 - 1 ) 
+} ; print pot ( 2 , 13 )
+gg ( ) 
+f ( 22 , 44 ) 
+print fac ( 5 ) 
+
+

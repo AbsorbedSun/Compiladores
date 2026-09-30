@@ -1,0 +1,143 @@
+
+
+hoc1 calc. basica
+hoc2 calc. 26 vars.
+hoc3 calc. cientif.
+hoc4 calc. cientif. maq. virtual de pila
+hoc5 ciclos y decisiones
+hoc6 funcs. y procs.
+
+end -> epsilon
+
+($1)[0]  equiv *($1+0)
+($1)[1]  equiv *($1+1)
+($1)[1]  equiv *($1+1)
+
+           Generacion Codigo
+           RAM
+$1->       whilecode
+$1+1->     STOPX dir 1er inst de stmt
+$1+2->     STOPX dir locali. inmediatamente despues del ultimo STOP
+           expr
+           STOP
+           stmt
+           STOP
+progp->    ____
+
+           Ejecucion Codigo
+           RAM
+           whilecode
+pc->       STOPX dir 1er inst de stmt
+savepc+1-> STOPX dir locali. mem. inmediatamente despues del ultimo STOP
+savepc+2-> expr
+           STOP
+           stmt
+           STOP
+pc->       ____
+
+
+pc = pc + 1 ejec. secuencial
+
+pc = dir 1er inst cond.
+pc = dir 1er inst de stmt
+pc = dir 1er inst cond.
+pc = dir 1er inst de stmt
+
+RAM
+$1->       ifcode
+$1+1->     STOPX dir 1er inst de stmt1
+$1+2->     STOP
+$1+3->     STOPX dir locali. mem. inmediatamente despues del ultimo STOP
+           expr
+           STOP
+           stmt1
+           STOP
+
+
+           ifcode
+pc->       STOPX dir 1er inst de stmt1
+savepc+1   STOP
+savepc+2   STOPX dir locali. mem. inmediatamente despues del ultimo STOP
+savepc+3   expr
+           STOP
+           stmt1
+           STOP
+     
+
+control flujo
+
+
+
+
+
+           RAM
+$1->       ifcode
+$1+1->     STOPX dir 1er inst de stmt1
+$1+2->     STOPX dir 1er inst de stmt2
+$1+3->     STOPX dir locali. mem. inmediatamente despues del ultimo STOP
+           expr
+           STOP
+           stmt1
+           STOP
+           stmt2
+           STOP
+progp->    _____
+
+
+RAM
+           ifcode
+pc->       STOPX dir 1er inst de stmt1
+savepc+1   STOPX dir 1er inst de stmt2
+savepc+2   STOPX dir locali. mem. inmediatamente despues del ultimo STOP
+savepc+3   expr
+           STOP
+           stmt1
+           STOP
+           stmt2
+           STOP
+pc->       ____
+
+
+RAM
+->         ifcode
+pc->       dir 1er inst de stmt1
+pc+1->     dir 1er inst de stmt2
+pc+2->     dir locali. mem. inmediatamente despues del ultimo STOP
+pc+3->     expr
+           STOP
+           stmt1
+           STOP
+           stmt2
+           STOP
+progp->    _____
+
+
+
+
+
+       
+
+           
+
+
+
+
+
+
+
+
+
+
+
+           
+
+
+
+
+           
+
+
+
+
+
+

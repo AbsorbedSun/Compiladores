@@ -1,0 +1,13 @@
+
+proc prueba(){
+        j=2
+	i=0
+	while(i<10){
+                print j
+		print i
+		i=i+1
+                j=j+2
+	}
+}
+
+prueba()
