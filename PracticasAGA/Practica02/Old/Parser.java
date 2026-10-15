@@ -16,8 +16,7 @@
 
 
 
-//#line 1 "forma.y"
-
+//#line 2 "forma.y"
 import java.util.*;
 import java.lang.Math;
 import java.io.*;
@@ -28,7 +27,7 @@ import javax.imageio.*;
 import java.awt.image.*;
 import javax.swing.*;
 import java.lang.reflect.*;
-//#line 29 "Parser.java"
+//#line 28 "Parser.java"
 
 
 
@@ -174,49 +173,42 @@ public final static short COLOR=261;
 public final static short PRINT=262;
 public final static short IMAGEN=263;
 public final static short FILTRO=264;
-public final static short ANGULO=265;
-public final static short IR=266;
 public final static short YYERRCODE=256;
 final static short yylhs[] = {                           -1,
     0,    0,    0,    1,    1,    1,    1,    1,    1,    1,
-    1,    1,    1,
 };
 final static short yylen[] = {                            2,
-    0,    2,    3,    1,    1,    3,    2,    3,    2,    2,
-    2,    3,   10,
+    0,    2,    3,    1,    1,    2,    2,    2,    3,   10,
 };
 final static short yydefred[] = {                         1,
-    0,    4,    0,    0,    0,    0,    0,    0,    0,    0,
-    2,    0,    9,   10,    0,   11,    0,    0,    7,    0,
-    3,    6,   12,    0,    8,    0,    0,    0,    0,    0,
-    0,   13,
+    0,    4,    0,    0,    5,    0,    0,    0,    2,    0,
+    6,    7,    8,    0,    0,    3,    9,    0,    0,    0,
+    0,    0,    0,    0,   10,
 };
 final static short yydgoto[] = {                          1,
-   12,
+   10,
 };
 final static short yysindex[] = {                         0,
-  -59,    0, -256, -255, -254, -253, -252, -251, -250, -249,
-    0,  -50,    0,    0, -247,    0, -246, -245,    0, -244,
-    0,    0,    0, -243,    0, -242, -241, -240, -239, -238,
- -237,    0,
+  -59,    0, -256, -255,    0, -254, -253, -252,    0,  -53,
+    0,    0,    0, -250, -249,    0,    0, -248, -247, -246,
+ -245, -244, -243, -242,    0,
 };
 final static short yyrindex[] = {                         0,
-    0,    0,    0,    0,  -38,    0,    0,    0,    0,    0,
     0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
     0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
-    0,    0,
+    0,    0,    0,    0,    0,
 };
 final static short yygindex[] = {                         0,
     0,
 };
-final static int YYTABLESIZE=207;
+final static int YYTABLESIZE=205;
 static short yytable[];
 static { yytable();}
 static void yytable(){
-yytable = new short[]{                         11,
-   13,   14,   15,   16,   17,   18,   19,   20,   21,   22,
-   23,   24,   25,   26,   27,   28,   29,   30,   31,   32,
-    5,    0,    0,    0,    0,    0,    0,    0,    0,    0,
+yytable = new short[]{                          9,
+   11,   12,   13,   14,   15,   16,   17,   18,   19,   20,
+   21,   22,   23,   24,   25,    0,    0,    0,    0,    0,
+    0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
     0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
     0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
     0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
@@ -234,16 +226,16 @@ yytable = new short[]{                         11,
     0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
     0,    0,    0,    0,    0,    0,    0,    0,    0,    0,
     0,    0,    0,    0,    0,    0,    0,    2,    3,    4,
-    5,    6,    0,    7,    8,    9,   10,
+    5,    6,    0,    7,    8,
 };
 }
 static short yycheck[];
 static { yycheck(); }
 static void yycheck() {
 yycheck = new short[] {                         59,
-  257,  257,  257,  257,  257,  257,  257,  257,   59,  257,
-  257,  257,  257,  257,  257,  257,  257,  257,  257,  257,
-   59,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,
+  257,  257,  257,  257,  257,   59,  257,  257,  257,  257,
+  257,  257,  257,  257,  257,   -1,   -1,   -1,   -1,   -1,
+   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,
    -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,
    -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,
    -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,
@@ -261,11 +253,11 @@ yycheck = new short[] {                         59,
    -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,
    -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,   -1,
    -1,   -1,   -1,   -1,   -1,   -1,   -1,  257,  258,  259,
-  260,  261,   -1,  263,  264,  265,  266,
+  260,  261,   -1,  263,  264,
 };
 }
 final static short YYFINAL=1;
-final static short YYMAXTOKEN=266;
+final static short YYMAXTOKEN=264;
 final static String yyname[] = {
 "end-of-file",null,null,null,null,null,null,null,null,null,null,null,null,null,
 null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,
@@ -284,7 +276,7 @@ null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,
 null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,
 null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,
 null,null,null,null,"NUMBER","LINE","CIRCULO","RECTANGULO","COLOR","PRINT",
-"IMAGEN","FILTRO","ANGULO","IR",
+"IMAGEN","FILTRO",
 };
 final static String yyrule[] = {
 "$accept : list",
@@ -293,9 +285,6 @@ final static String yyrule[] = {
 "list : list inst ';'",
 "inst : NUMBER",
 "inst : RECTANGULO",
-"inst : RECTANGULO NUMBER NUMBER",
-"inst : ANGULO NUMBER",
-"inst : IR NUMBER NUMBER",
 "inst : LINE NUMBER",
 "inst : CIRCULO NUMBER",
 "inst : COLOR NUMBER",
@@ -303,8 +292,7 @@ final static String yyrule[] = {
 "inst : FILTRO NUMBER NUMBER NUMBER NUMBER NUMBER NUMBER NUMBER NUMBER NUMBER",
 };
 
-//#line 81 "forma.y"
-
+//#line 71 "forma.y"
 public BufferedImage leeImagen(String nombre){
    BufferedImage imagen;
    try {
@@ -359,11 +347,8 @@ Simbolo simbo;
    if(Character.isLetter(s.charAt(0))){
 	if((simbo=tabla.get(s))!=null){
            yylval = new ParserVal(new Algo(simbo, 0));  
-           tok= simbo.tipo;
-        } else {
-           yyerror("palabra desconocida: "+s);
-           tok= s.charAt(0);
-        }
+        }	
+         tok= simbo.tipo;
     } else {
     	tok = s.charAt(0);
     }
@@ -406,8 +391,6 @@ Parser(int foo){
    tabla.put("print", new Simbolo( PRINT, 0.0));
    tabla.put("ima", new Simbolo(IMAGEN, 0.0));
    tabla.put("fil", new Simbolo(FILTRO, 0.0));
-   tabla.put("angulo", new Simbolo(ANGULO, 0.0));
-   tabla.put("ir", new Simbolo(IR, 0.0));
    maq.setTabla(tabla);
    jf=new JFrame("Calcula");
    canv=new Canvas();
@@ -421,7 +404,7 @@ Parser(int foo){
    jf.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);  
 }
 public static void main(String args[]){ new Parser(); }
-//#line 353 "Parser.java"
+//#line 336 "Parser.java"
 //###############################################################
 // method: yylexdebug : check lexer state
 //###############################################################
@@ -578,55 +561,35 @@ boolean doaction;
 case 3:
 //#line 18 "forma.y"
 { 
-             maq.code("print"); maq.code("STOP");
-             if (true) return 1 ;   /* el "if" evita "unreachable statement" en javac */
+             maq.code("print"); maq.code("STOP"); return 1 ;
      }
-break;
+
 case 4:
-//#line 23 "forma.y"
+//#line 22 "forma.y"
 { ((Algo)yyval.obj).inst=maq.code("constpush");
                 maq.code(((Algo)val_peek(0).obj).simb); }
 break;
 case 5:
-//#line 25 "forma.y"
+//#line 24 "forma.y"
 { maq.code("rectangulo"); }
 break;
 case 6:
-//#line 26 "forma.y"
-{ maq.code("constpush");
-                maq.code(((Algo)val_peek(1).obj).simb);
-                maq.code("constpush");
-                maq.code(((Algo)val_peek(0).obj).simb); maq.code("rectangulo2"); }
-break;
-case 7:
-//#line 30 "forma.y"
-{ maq.code("constpush");
-                maq.code(((Algo)val_peek(0).obj).simb); maq.code("angulo"); }
-break;
-case 8:
-//#line 32 "forma.y"
-{ maq.code("constpush");
-                maq.code(((Algo)val_peek(1).obj).simb);
-                maq.code("constpush");
-                maq.code(((Algo)val_peek(0).obj).simb); maq.code("ir"); }
-break;
-case 9:
-//#line 36 "forma.y"
+//#line 25 "forma.y"
 { maq.code("constpush");
                 maq.code(((Algo)val_peek(0).obj).simb); maq.code("line");}
 break;
-case 10:
-//#line 38 "forma.y"
+case 7:
+//#line 27 "forma.y"
 { maq.code("constpush");
                 maq.code(((Algo)val_peek(0).obj).simb); maq.code("circulo");}
 break;
-case 11:
-//#line 40 "forma.y"
+case 8:
+//#line 29 "forma.y"
 { maq.code("constpush");
                 maq.code(((Algo)val_peek(0).obj).simb); maq.code("color");}
 break;
-case 12:
-//#line 42 "forma.y"
+case 9:
+//#line 31 "forma.y"
 {
               Simbolo s=new Simbolo();
               s.ponDibu(new Imagen(leeImagen("dalmata.jpg"), 
@@ -637,8 +600,8 @@ case 12:
               maq.code("draw");      
       }
 break;
-case 13:
-//#line 52 "forma.y"
+case 10:
+//#line 41 "forma.y"
 {  
                       maq.code("constpush");
                       maq.code(((Algo)val_peek(8).obj).simb);
@@ -668,7 +631,7 @@ case 13:
                       maq.code("filtro");
 }
 break;
-//#line 595 "Parser.java"
+//#line 558 "Parser.java"
 //########## END OF USER-SUPPLIED ACTIONS ##########
     }//switch
     //#### Now let's reduce... ####

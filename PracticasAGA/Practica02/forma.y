@@ -5,90 +5,44 @@ import java.io.*;
 import java.util.StringTokenizer;
 import java.awt.*;
 import java.awt.event.*;
-import javax.imageio.*;
-import java.awt.image.*;
 import javax.swing.*;
 import java.lang.reflect.*;
 %}
-%token NUMBER LINE CIRCULO RECTANGULO COLOR PRINT IMAGEN FILTRO ANGULO IR
+%token NUMBER LINE CIRCULO RECTANGULO COLOR PRINT AUTO CASA PERSONA
 %start list
 %%
 list :
      | list ';'
      | list inst ';'   { 
-             maq.code("print"); maq.code("STOP");
-             if (true) return 1 ;   /* el "if" evita "unreachable statement" en javac */
+             maq.code("print"); maq.code("STOP"); if (true) return 1; ;
      }   
      ;
 inst:  NUMBER  { ((Algo)$$.obj).inst=maq.code("constpush");
                 maq.code(((Algo)$1.obj).simb); }
-      | RECTANGULO   { maq.code("rectangulo"); }
-      | RECTANGULO NUMBER NUMBER { maq.code("constpush");
-                maq.code(((Algo)$2.obj).simb);
-                maq.code("constpush");
-                maq.code(((Algo)$3.obj).simb); maq.code("rectangulo2"); }
-      | ANGULO NUMBER { maq.code("constpush");
-                maq.code(((Algo)$2.obj).simb); maq.code("angulo"); }
-      | IR NUMBER NUMBER { maq.code("constpush");
-                maq.code(((Algo)$2.obj).simb);
-                maq.code("constpush");
-                maq.code(((Algo)$3.obj).simb); maq.code("ir"); }
-      | LINE NUMBER  { maq.code("constpush");
-                maq.code(((Algo)$2.obj).simb); maq.code("line");}
-      | CIRCULO NUMBER  { maq.code("constpush");
-                maq.code(((Algo)$2.obj).simb); maq.code("circulo");}
+      | RECTANGULO NUMBER NUMBER NUMBER NUMBER { 
+                maq.code("constpush"); maq.code(((Algo)$2.obj).simb);
+                maq.code("constpush"); maq.code(((Algo)$3.obj).simb);
+                maq.code("constpush"); maq.code(((Algo)$4.obj).simb);
+                maq.code("constpush"); maq.code(((Algo)$5.obj).simb);
+                maq.code("rectangulo"); }
+      | LINE NUMBER NUMBER NUMBER NUMBER { 
+                maq.code("constpush"); maq.code(((Algo)$2.obj).simb);
+                maq.code("constpush"); maq.code(((Algo)$3.obj).simb);
+                maq.code("constpush"); maq.code(((Algo)$4.obj).simb);
+                maq.code("constpush"); maq.code(((Algo)$5.obj).simb);
+                maq.code("line"); }
+      | CIRCULO NUMBER NUMBER NUMBER { 
+                maq.code("constpush"); maq.code(((Algo)$2.obj).simb);
+                maq.code("constpush"); maq.code(((Algo)$3.obj).simb);
+                maq.code("constpush"); maq.code(((Algo)$4.obj).simb);
+                maq.code("circulo"); }
+      | CASA     { maq.code("casa"); }
+      | AUTO     { maq.code("auto"); }
+      | PERSONA  { maq.code("persona"); }
       | COLOR NUMBER { maq.code("constpush");
                 maq.code(((Algo)$2.obj).simb); maq.code("color");}
-      | IMAGEN NUMBER NUMBER {
-              Simbolo s=new Simbolo();
-              s.ponDibu(new Imagen(leeImagen("dalmata.jpg"), 
-                (int)((Algo)$2.obj).simb.val, 
-                (int)((Algo)$3.obj).simb.val, jf));
-              maq.code("varpush");
-              maq.code(s);  
-              maq.code("draw");      
-      }
-      | FILTRO NUMBER NUMBER NUMBER NUMBER NUMBER NUMBER 
-        NUMBER NUMBER NUMBER  {  
-                      maq.code("constpush");
-                      maq.code(((Algo)$2.obj).simb);
-                      maq.code("constpush");
-                      maq.code(((Algo)$3.obj).simb);
-                      maq.code("constpush");
-                      maq.code(((Algo)$4.obj).simb);
-                      maq.code("constpush");
-                      maq.code(((Algo)$5.obj).simb);
-                      maq.code("constpush");
-                      maq.code(((Algo)$6.obj).simb);
-                      maq.code("constpush");
-                      maq.code(((Algo)$7.obj).simb);
-                      maq.code("constpush");
-                      maq.code(((Algo)$8.obj).simb);
-                      maq.code("constpush");
-                      maq.code(((Algo)$9.obj).simb);
-                      maq.code("constpush");
-                      maq.code(((Algo)$10.obj).simb);
-                     
-                      Simbolo s=new Simbolo();
-                      s.ponDibu(new Imagen(leeImagen("dalmata.jpg"), 
-                100, 
-                100, jf));
-                      maq.code("varpush");
-                      maq.code(s);  
-                      maq.code("filtro");
-}
       ;
 %%
-public BufferedImage leeImagen(String nombre){
-   BufferedImage imagen;
-   try {
-      imagen = ImageIO.read(new File(nombre));     
-   } catch (IOException e){
-        System.err.println("no cargo "+nombre);
-        return null;
-   }
-   return imagen;
-   }
 class Algo {
 	Simbolo simb;
 	int inst;
@@ -105,7 +59,6 @@ public void setTokenizer(StringTokenizer st){
 public void setNewline(boolean newline){
  	this.newline= newline;
 }
-//Tabla tabla;
 HashMap<String, Simbolo> tabla=new HashMap<String, Simbolo>();
 Maquina maq;
 
@@ -133,20 +86,11 @@ Simbolo simbo;
    if(Character.isLetter(s.charAt(0))){
 	if((simbo=tabla.get(s))!=null){
            yylval = new ParserVal(new Algo(simbo, 0));  
-           tok= simbo.tipo;
-        } else {
-           yyerror("palabra desconocida: "+s);
-           tok= s.charAt(0);
-        }
+        }	
+         tok= simbo.tipo;
     } else {
     	tok = s.charAt(0);
     }
-   /*if(Character.isLetter(s.charAt(0))){
-      System.out.println("s es = ("+s+")");
-      if((simbo=tabla.lookup(s))==null)
-         yylval = new ParserVal(new Algo(simbo, 0));
-	 tok= simbo.tipo;	
-      }*/ 
    }
    return tok;
 }
@@ -160,7 +104,6 @@ static Canvas canv;
 static Graphics g;
 Parser(int foo){
    maq=new Maquina();
-   //tabla=new Tabla();
  try {
    Method[] ma = ((Maquina)maq).getClass().getMethods();
    for (Method m : ma) {  
@@ -178,10 +121,9 @@ Parser(int foo){
    tabla.put("rectangulo", new Simbolo(RECTANGULO, 0.0));
    tabla.put("color", new Simbolo(COLOR, 0.0));
    tabla.put("print", new Simbolo( PRINT, 0.0));
-   tabla.put("ima", new Simbolo(IMAGEN, 0.0));
-   tabla.put("fil", new Simbolo(FILTRO, 0.0));
-   tabla.put("angulo", new Simbolo(ANGULO, 0.0));
-   tabla.put("ir", new Simbolo(IR, 0.0));
+   tabla.put("casa", new Simbolo(CASA, 0.0));
+   tabla.put("auto", new Simbolo(AUTO, 0.0));     
+   tabla.put("persona", new Simbolo(PERSONA, 0.0));
    maq.setTabla(tabla);
    jf=new JFrame("Calcula");
    canv=new Canvas();
