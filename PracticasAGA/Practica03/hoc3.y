@@ -1,21 +1,21 @@
 %{
 /* hoc3.y -- calculadora de numeros grandes (+ - * ^, parentesis) con
  *           variables y funciones predefinidas, al estilo hoc3.
- *           El analizador lexico esta en lex.l (generado con lex/flex).
  *
  * Lo que se TOMO de hoc3:  union con Symbol*, tokens VAR/BLTIN/INDEF,
- *   regla asgn, '=' como operador, tabla de simbolos (lookup/install),
- *   warning() e init().
+ *   regla asgn, '=' como operador, lookup/install en el analizador lexico,
+ *   warning(), init() y el uso de la tabla de simbolos.
  * Lo que se CONSERVO de la calculadora: tipo Grande, %destructor,
- *   recuperacion de errores con YYERROR.
+ *   recuperacion de errores con YYERROR, yylex para numeros enormes.
  * Lo que se QUITO de hoc3: double, '/', setjmp/longjmp (execerror),
  *   SIGFPE, lineno y progname.
  */
 #include <stdio.h>
 #include <stdlib.h>
+#include <ctype.h>
 #include "hoc.h"
 
-int  yylex(void);                 /* lo genera lex a partir de lex.l */
+int  yylex(void);
 void yyerror(const char *s);
 %}
 
@@ -84,6 +84,57 @@ expr: NUMERO
     | '(' expr ')'  { $$ = $2; }
     ;
 %%
+
+/* ================= analizador lexico ================= */
+
+int yylex(void)
+{
+    static int previo = '\n';         /* para cerrar la ultima linea si falta '\n' */
+    int c;
+    while ((c = getchar()) == ' ' || c == '\t' || c == '\r')
+        ;
+    if (c == EOF) {
+        if (previo != '\n') { previo = '\n'; return '\n'; }
+        return 0;
+    }
+    previo = c;
+
+    if (isdigit(c)) {                 /* numero de cualquier tamano */
+        size_t n = 0, cap = 64;
+        char *s = emalloc(cap);
+        do {
+            if (n + 2 > cap) {
+                cap *= 2;
+                s = realloc(s, cap);
+                if (!s) { fprintf(stderr, "Error: memoria insuficiente\n"); exit(EXIT_FAILURE); }
+            }
+            s[n++] = (char)c;
+            c = getchar();
+        } while (isdigit(c));
+        ungetc(c, stdin);
+        s[n] = '\0';
+        yylval.num = g_desde_cadena(s);
+        free(s);
+        return NUMERO;
+    }
+
+    if (isalpha(c)) {                 /* identificador: VAR, BLTIN o INDEF (de hoc3) */
+        Symbol *s;
+        char sbuf[256], *p = sbuf;
+        do {
+            if (p < sbuf + sizeof sbuf - 1)      /* no desbordar el buffer */
+                *p++ = (char)c;
+        } while ((c = getchar()) != EOF && isalnum(c));
+        ungetc(c, stdin);
+        *p = '\0';
+        if ((s = lookup(sbuf)) == (Symbol *)NULL)
+            s = install(sbuf, INDEF, NULL);      /* primera vez que se ve: indefinida */
+        yylval.sym = s;
+        return s->type == INDEF ? VAR : s->type; /* VAR o BLTIN */
+    }
+
+    return c;   /* + - * ^ = ( ) \n; cualquier otro caracter lo rechaza el parser */
+}
 
 void warning(const char *s, const char *t)
 {
