@@ -1,0 +1,36 @@
+x = 15
+if (x > 10) print 1
+if (x < 10) print 2
+if (x > 10) print 100 else print 200
+if (x < 10) print 100 else print 200
+if (x >= 15) print 111
+if (x <= 14) print 222 else print 333
+if (x == 15) print 444
+if (x != 15) print 555 else print 666
+a = 100000000000000000000000000000
+b = 99999999999999999999999999999
+if (a > b) print a
+if (a > b) print a - b else print b - a
+if (b > a) print b else print a
+if (a == b + 1) print 1
+if (a - b == 1) { print 7
+print 8 }
+if (0 - a < b) print 12345
+if (0 - a < 0 - b) print 1 else print 0
+if (a * a > a) { print 1
+print 2 }
+if (x > 10 && a > b) print 1
+if (x > 10 && a < b) print 1 else print 0
+if (x < 10 || a > b) print 1
+if (!(x > 10)) print 1 else print 0
+if (x) print 5
+if (x - x) print 6 else print 7
+if (x > 10) if (a > b) print 77 else print 88
+if (x > 100) if (a > b) print 77 else print 88
+y = x > 10
+y
+x < 3
+a >= a
+b <= a
+a != a
+(x > 3) + 1

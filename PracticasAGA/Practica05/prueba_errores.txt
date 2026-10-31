@@ -1,0 +1,25 @@
+i = 3
+while (i >= 0) {
+  print 10 / i
+  i = i - 1
+}
+i
+print i
+if (noexiste > 1) print 1
+q = 5
+while (q > 0) {
+  q = q - 1
+  w = w + 1
+}
+q
+if (q > ) print 1
+while (q < 3 {
+}
+if (3 > 2) print 1 else
+x = 1 & 2
+x = 1 | 2
+fact(-1) > 2
+if (2 ^ -1 > 0) print 1
+print 5
+q = 7
+q
